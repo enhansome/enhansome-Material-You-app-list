@@ -258,32 +258,32 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 *Last **30 apps** that were recently added to list!*
 
-* `MD` [Fulguris](https://github.com/Slion/Fulguris) ⭐ 818 | 🐛 318 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [PDF Toolkit](https://github.com/Karna14314/Pdf_Tools) ⭐ 527 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [Trending AI](https://github.com/HarlonWang/TrendingAI) ⭐ 244 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [Punch-hole Download Progress](https://github.com/hxreborn/punch-hole-download-progress) ⭐ 229 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MD3E` [M3 Play](https://github.com/JAY01-CYBER/M3-Play) ⭐ 223 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-* `MD3E` [FaceDown](https://github.com/arekbauer/FaceDown) ⭐ 174 | 🐛 11 | 🌐 Kotlin | 📅 2026-07-04
+* `MD` [Fulguris](https://github.com/Slion/Fulguris) ⭐ 818 | 🐛 318 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [PDF Toolkit](https://github.com/Karna14314/Pdf_Tools) ⭐ 529 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [Trending AI](https://github.com/HarlonWang/TrendingAI) ⭐ 244 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
+* `MDY` [Punch-hole Download Progress](https://github.com/hxreborn/punch-hole-download-progress) ⭐ 231 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MD3E` [M3 Play](https://github.com/JAY01-CYBER/M3-Play) ⭐ 225 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MD3E` [FaceDown](https://github.com/arekbauer/FaceDown) ⭐ 175 | 🐛 11 | 🌐 Kotlin | 📅 2026-07-04
+* `MDY` [NewPipe Material](https://github.com/wizdom13/NewPipe_Material) ⭐ 142 | 🐛 2 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MD3E` [MKM](https://github.com/abhay-byte/mkm) ⭐ 136 | 🐛 7 | 🌐 Kotlin | 📅 2026-07-07 <sup>`FOSS`</sup>
-* `MDY` [NewPipe Material](https://github.com/wizdom13/NewPipe_Material) ⭐ 132 | 🐛 2 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MD` [Hidroly](https://github.com/om1cael/Hidroly) ⭐ 113 | 🐛 21 | 🌐 Dart | 📅 2026-06-09 <sup>`FOSS`</sup>
-* `MD3E` [Baca.](https://github.com/dyunayuna90-bit/baca.) ⭐ 94 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-21 <sup>`FOSS`</sup>
+* `MD3E` [Baca.](https://github.com/dyunayuna90-bit/baca.) ⭐ 95 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-21 <sup>`FOSS`</sup>
 * `MDY` [FinalBenchmark 2](https://github.com/abhay-byte/finalbenchmark-platform) ⭐ 85 | 🐛 3 | 🌐 Kotlin | 📅 2026-06-23 <sup>`FOSS`</sup>
-* `MD3E` [Bubble Notice](https://github.com/GraceThings/bubble-notice-android) ⭐ 82 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-14 <sup>`FOSS`</sup>
-* `MDY` [GhostIdes](https://github.com/HanzoDev1375/GhostIdes) ⭐ 80 | 🐛 0 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MD3E` [Boxlore](https://github.com/ashwkun/boxlore) ⭐ 62 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
-* `MDY` [StashFlow](https://github.com/Alchemist-Aloha/StashFlow) ⭐ 55 | 🐛 12 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [GhostIdes](https://github.com/HanzoDev1375/GhostIdes) ⭐ 83 | 🐛 0 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MD3E` [Bubble Notice](https://github.com/GraceThings/bubble-notice-android) ⭐ 83 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-14 <sup>`FOSS`</sup>
+* `MD3E` [Boxlore](https://github.com/ashwkun/boxlore) ⭐ 64 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
+* `MDY` [StashFlow](https://github.com/Alchemist-Aloha/StashFlow) ⭐ 55 | 🐛 5 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MD3E` [MpvRxN](https://github.com/WHITE-KNIGHT5/MpvRxN) ⭐ 40 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [Pdf Unlocker](https://github.com/OpenAppex/pdfunlocker) ⭐ 31 | 🐛 0 | 🌐 Kotlin | 📅 2026-06-29 <sup>`FOSS`</sup>
-* `MD` [Aperture](https://github.com/XDanfr/Aperture) ⭐ 29 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MD3E` [Trainable](https://github.com/Emanuel5014/Trainable) ⭐ 26 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-12 <sup>`FOSS`</sup>
+* `MD` [Aperture](https://github.com/XDanfr/Aperture) ⭐ 29 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
+* `MD3E` [Trainable](https://github.com/Emanuel5014/Trainable) ⭐ 25 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-12 <sup>`FOSS`</sup>
 * `MDY` [CalculatorM3](https://github.com/gergelyvagujhelyi/CalculatorM3) ⭐ 25 | 🐛 9 | 🌐 Kotlin | 📅 2026-06-29 <sup>`FOSS`</sup>
 * `MD3E` [Algidy](https://github.com/NhuHuy-79/Algidy) ⭐ 22 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
 * `MDY` [Compose stopwatch](https://github.com/JustDeax/ComposeStopwatch) ⭐ 21 | 🐛 0 | 🌐 Kotlin | 📅 2026-06-28 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD3E` [Chameleon](https://github.com/Rabkaps/Chameleon) ⭐ 20 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-06 <sup>`FOSS`</sup>
 * `MD3E` [Weight Tracker](https://github.com/AdityaHebballe/Weight-Tracker) ⭐ 16 | 🐛 1 | 🌐 Kotlin | 📅 2026-06-11 <sup>`FOSS`</sup>
 * `MDY` [NOVA](https://github.com/nofuturekid/nova) ⭐ 12 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-01 <sup>`FOSS`</sup>
-* `MDY` [Asukaplayer](https://github.com/qianmokano/Asukaplayer) ⭐ 10 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [Asukaplayer](https://github.com/qianmokano/Asukaplayer) ⭐ 10 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MD3E` [Damier](https://github.com/Lijucay/Damier) ⭐ 3 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-06 <sup>`FOSS`</sup>
 * `MD3E` [SuiDays](https://play.google.com/store/apps/details?id=io.github.gracethings.suidays)
 * `MD3E` [Pixel World](https://play.google.com/store/apps/details?id=com.velviagris.adventure)
@@ -297,20 +297,20 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 #### 🧠 **Reddit**
 
-*How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://github.com/wchill/patcheddit) ⭐ 772 | 🐛 48 | 🌐 Kotlin | 📅 2026-05-03!
+*How to make Reddit clients work after **API changes?*** Checkout this [Guide](https://github.com/wchill/patcheddit) ⭐ 774 | 🐛 48 | 🌐 Kotlin | 📅 2026-05-03!
 
-* `MDY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) ⭐ 5,428 | 🐛 164 | 🌐 Java | 📅 2026-08-19 <sup>`FOSS`</sup>
-  * `MDY` [Continuum](https://github.com/cygnusx-1-org/continuum) ⭐ 1,545 | 🐛 23 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MDY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) ⭐ 5,429 | 🐛 165 | 🌐 Java | 📅 2026-08-19 <sup>`FOSS`</sup>
+  * `MDY` [Continuum](https://github.com/cygnusx-1-org/continuum) ⭐ 1,550 | 🐛 21 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [Pineapple](https://github.com/galaxygoldfish/pineapple) ⭐ 213 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-12 <sup>`FOSS`</sup>
-* `MD3E` [Ilay for Reddit](https://github.com/bennybar/LuliReddit) ⭐ 134 | 🐛 3 | 🌐 Dart | 📅 2026-07-09 <sup>`FOSS`</sup>
+* `MD3E` [Ilay for Reddit](https://github.com/bennybar/LuliReddit) ⭐ 135 | 🐛 3 | 🌐 Dart | 📅 2026-07-09 <sup>`FOSS`</sup>
 * `MDY` [Boost for Reddit](https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/) <sup>`🪦`</sup>
 * `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/) <sup>`🪦`</sup>
 
 #### 🕊️ **X (Twitter)**
 
-* `MY` [Piko for Twitter](https://github.com/crimera/twitter-apk) ⭐ 4,985 | 🐛 4 | 🌐 Python | 📅 2026-07-25 <sup>`FOSS`</sup>
+* `MY` [Piko for Twitter](https://github.com/crimera/twitter-apk) ⭐ 4,994 | 🐛 4 | 🌐 Python | 📅 2026-07-25 <sup>`FOSS`</sup>
 * `MY` [Harpy](https://github.com/robertodoering/harpy) ⭐ 2,076 | 🐛 3 | 🌐 Dart | 📅 2024-08-01 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MD` [Squawker](https://github.com/j-fbriere/squawker) ⭐ 1,417 | 🐛 216 | 🌐 Dart | 📅 2026-06-23 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MD` [Squawker](https://github.com/j-fbriere/squawker) ⭐ 1,418 | 🐛 216 | 🌐 Dart | 📅 2026-06-23 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Quacker](https://github.com/witchfindertr/Quacker) ⭐ 2 | 🐛 0 | 📅 2024-03-09 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [QuaX](https://github.com/Teskann/QuaX) ⭐ 459 | 🐛 37 | 🌐 Dart | 📅 2026-08-01 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [Focust](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
@@ -318,7 +318,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 #### 🐘 **Mastodon**
 
-* `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) ⭐ 2,035 | 🐛 405 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) ⭐ 2,035 | 🐛 405 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) ⭐ 968 | 🐛 298 | 🌐 Java | 📅 2026-07-11 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD` [Pachli](https://github.com/pachli/pachli-android) ⭐ 247 | 🐛 202 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup>
@@ -329,12 +329,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 #### 🎮 **Discord**
 
-* `MY` [Aliucord](https://github.com/Aliucord/Aliucord) ⭐ 4,843 | 🐛 108 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`⚠️ Setup:` [`#1`](https://github.com/LampDelivery/Materii) ⭐ 7 | 🐛 0 | 📅 2026-01-15 [`#2`](https://github.com/twixxty/Aliyoucord) ⭐ 2 | 🐛 0 | 📅 2025-09-25 [`#3`](https://github.com/vicefriedrice/MatuNight) ⭐ 3 | 🐛 0 | 📅 2025-11-27</sup>
-* `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup> <sup>`⚠️ Setup:` [`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme) ⭐ 314 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-16</sup>
+* `MY` [Aliucord](https://github.com/Aliucord/Aliucord) ⭐ 4,844 | 🐛 108 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`⚠️ Setup:` [`#1`](https://github.com/LampDelivery/Materii) ⭐ 7 | 🐛 0 | 📅 2026-01-15 [`#2`](https://github.com/twixxty/Aliyoucord) ⭐ 2 | 🐛 0 | 📅 2025-09-25 [`#3`](https://github.com/vicefriedrice/MatuNight) ⭐ 3 | 🐛 0 | 📅 2025-11-27</sup>
+* `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup> <sup>`⚠️ Setup:` [`#1`](https://github.com/Gabe616/VendettaPlugins/tree/main/plugins/monet-theme) ⭐ 314 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-23</sup>
   * `MY` [Bunny](https://github.com/pyoncord/Bunny) ⚠️ Archived <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
   * `MY` [Revenge](https://github.com/revenge-mod/Revenge) ⭐ 1,659 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-12 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MD` [Vencord](https://github.com/Vencord/Android) ⭐ 721 | 🐛 6 | 🌐 Java | 📅 2025-08-31 <sup>`FOSS`</sup> <sup>`⚠️ Setup:` [`#1`](https://github.com/CapnKitten/Material-Discord) ⭐ 457 | 🐛 15 | 🌐 CSS | 📅 2026-06-21</sup>
+* `MD` [Vencord](https://github.com/Vencord/Android) ⭐ 722 | 🐛 6 | 🌐 Java | 📅 2025-08-31 <sup>`FOSS`</sup> <sup>`⚠️ Setup:` [`#1`](https://github.com/CapnKitten/Material-Discord) ⭐ 457 | 🐛 15 | 🌐 CSS | 📅 2026-06-21</sup>
 
 #### 📸 **Instagram**
 
@@ -344,22 +344,22 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 #### ✈️ **Telegram**
 
-* `MY` [Nagram](https://github.com/NextAlone/Nagram) ⭐ 3,165 | 🐛 2 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MD3E` [NagramX](https://github.com/risin42/NagramX) ⭐ 2,221 | 🐛 3 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-* `MY` [Forkgram](https://github.com/forkgram/TelegramAndroid) ⭐ 1,453 | 🐛 185 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MY` [Nagram](https://github.com/NextAlone/Nagram) ⭐ 3,173 | 🐛 5 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MD3E` [NagramX](https://github.com/risin42/NagramX) ⚠️ Archived <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MY` [Forkgram](https://github.com/forkgram/TelegramAndroid) ⭐ 1,456 | 🐛 185 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
 * `MDY` [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) ⭐ 1,412 | 🐛 5 | 🌐 Java | 📅 2026-08-19 <sup>`FOSS`</sup>
-* `MD3E` [MonoGram](https://github.com/monogram-android/monogram) ⭐ 886 | 🐛 54 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MD3E` [MonoGram](https://github.com/monogram-android/monogram) ⭐ 887 | 🐛 54 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
 * `MY` [Nullgram](https://github.com/qwq233/Nullgram) ⭐ 755 | 🐛 19 | 🌐 Java | 📅 2026-07-30 <sup>`FOSS`</sup>
-* `MY` [Mercurygram](https://github.com/Mercurygram/Mercurygram) ⭐ 561 | 🐛 28 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [OctoGram](https://github.com/OctoGramApp/OctoGram) ⭐ 421 | 🐛 20 | 🌐 Java | 📅 2026-07-04 <sup>`FOSS`</sup>
+* `MY` [Mercurygram](https://github.com/Mercurygram/Mercurygram) ⭐ 564 | 🐛 27 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MDY` [OctoGram](https://github.com/OctoGramApp/OctoGram) ⭐ 422 | 🐛 20 | 🌐 Java | 📅 2026-07-04 <sup>`FOSS`</sup>
 * `MY` [OwlGram](https://github.com/OwlGramDev/OwlGram) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [exteraGram](https://t.me/exteraGram) <sup>`🐾`</sup>
 
 #### 🐭 **Lemmy**
 
-* `MDY` [Jerboa](https://github.com/dessalines/jerboa) ⭐ 1,312 | 🐛 171 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+* `MDY` [Jerboa](https://github.com/dessalines/jerboa) ⭐ 1,313 | 🐛 171 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
 * `MDY` [Thunder](https://github.com/hjiangsu/thunder) ⭐ 1,017 | 🐛 270 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [Raccoon for Lemmy](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) ⭐ 104 | 🐛 34 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Raccoon for Lemmy](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) ⭐ 105 | 🐛 37 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
 * `MD3E` [Summit for Lemmy](https://github.com/idunnololz/summit-for-lemmy) ⭐ 65 | 🐛 8 | 📅 2026-08-17 <sup>`FOSS`</sup>
 * `MDY` [Boost for Lemmy](https://play.google.com/store/apps/details?id=com.rubenmayayo.lemmy)
 * `MDY` [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
@@ -371,45 +371,45 @@ This list is solely a compilation of apps that adopt the Material You design gui
 * `MD` [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) <sup>`⚠️ Setup:` [`#1`](https://t.me/MaterialYouApps/217)</sup>
 * `MD` [WhatsApp Business](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 * **Miscellaneous**
-  * `MD` [WA Enhancer](https://github.com/Dev4Mod/WaEnhancer) ⭐ 1,656 | 🐛 285 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+  * `MD` [WA Enhancer](https://github.com/Dev4Mod/WaEnhancer) ⭐ 1,659 | 🐛 282 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`🐾`</sup>
   * `MD` [WA Tweaker](https://watweaker.com/)
 
 #### 🐻‍❄️ **VK**
 
 * `MY` [VTosters lite](https://github.com/vtosters/lite) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) ⭐ 136 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
+* `MDY` [Fenrir VK](https://github.com/umerov1999/Fenrir-for-VK) ⭐ 137 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MY` [VK Equals](https://t.me/vkequals)
 
 #### 🎨 **Pixiv**
 
-* `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) ⭐ 12,645 | 🐛 490 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) ⭐ 12,655 | 🐛 491 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`MOD`</sup> <sup>`🪦`</sup>
 
 #### 🟣 **Pixelfed**
 
-* `MDY` [Pixelix](https://github.com/ghostbyte-dev/pixelix) ⭐ 340 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [Pixelix](https://github.com/ghostbyte-dev/pixelix) ⭐ 341 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) ⭐ 140 | 🐛 42 | 🌐 Kotlin | 📅 2026-05-02 <sup>`FOSS`</sup>
 
 #### 🔐 **Signal**
 
-* `MD` [Signal](https://github.com/signalapp/Signal-Android) ⭐ 29,240 | 🐛 482 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-  * `MDY` [Molly](https://github.com/mollyim/mollyim-android) ⭐ 3,656 | 🐛 330 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MD` [Signal](https://github.com/signalapp/Signal-Android) ⭐ 29,244 | 🐛 482 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+  * `MDY` [Molly](https://github.com/mollyim/mollyim-android) ⭐ 3,658 | 🐛 331 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
   * `MDY` [Signal You](https://github.com/nekorubu/Signal-You) ⚠️ Archived <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
 
 #### 🗣️ **Matrix**
 
-* `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,071 | 🐛 560 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,072 | 🐛 555 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MD` [Mages](https://github.com/mlm-games/Mages) ⭐ 162 | 🐛 35 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
 * `MDY` [< polycule >](https://gitlab.com/polycule_client/polycule) <sup>`FOSS`</sup>
 
 #### 🎥 **Twitch**
 
-* `MDY` [Xtra](https://github.com/crackededed/Xtra) ⭐ 2,231 | 🐛 189 | 🌐 Kotlin | 📅 2026-08-19 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MDY` [Xtra](https://github.com/crackededed/Xtra) ⭐ 2,234 | 🐛 190 | 🌐 Kotlin | 📅 2026-08-19 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [DankChat](https://github.com/flex3r/DankChat) ⭐ 357 | 🐛 51 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
 
 #### 🦋 **Bluesky**
 
-* `MD3E` [Heron](https://github.com/tunjid/heron) ⭐ 550 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MD3E` [Heron](https://github.com/tunjid/heron) ⭐ 550 | 🐛 30 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
 
 #### 🦤 **Nostr**
 
@@ -418,18 +418,18 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 #### 🟦 **Facebook**
 
-* `MY` [Materialbook](https://github.com/eepiemi/Materialbook) ⭐ 268 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MY` [Materialbook](https://github.com/eepiemi/Materialbook) ⭐ 340 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### 🔧 **Miscellaneous**
 
-* `MD3E` [Flare](https://github.com/DimensionDev/Flare) ⭐ 1,474 | 🐛 81 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MD3E` [Flare](https://github.com/DimensionDev/Flare) ⭐ 1,478 | 🐛 81 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
 * `MDY` [Threema](https://github.com/threema-ch/threema-android) ⭐ 984 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-05 <sup>`FOSS`</sup> <sup>`💰`</sup>
 * `MDY` [Stack for Stack Overflow](https://github.com/tylerbwong/stack) ⭐ 576 | 🐛 18 | 🌐 Kotlin | 📅 2025-04-04 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Boorusphere](https://github.com/Kropatz/boorusphere/) ⭐ 80 | 🐛 8 | 🌐 Dart | 📅 2026-08-06 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [Rays](https://github.com/SkyD666/Rays-Android) ⭐ 327 | 🐛 11 | 🌐 Kotlin | 📅 2026-06-06 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) ⭐ 192 | 🐛 3 | 🌐 Kotlin | 📅 2025-10-22 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [Claw for lobste.rs](https://github.com/msfjarvis/compose-lobsters) ⭐ 141 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [Claw for lobste.rs](https://github.com/msfjarvis/compose-lobsters) ⭐ 141 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Raca](https://github.com/SkyD666/Raca-Android) ⭐ 117 | 🐛 3 | 🌐 Kotlin | 📅 2025-06-21 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) ⭐ 43 | 🐛 11 | 🌐 Kotlin | 📅 2026-06-17 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Conversations](https://codeberg.org/iNPUTmice/Conversations) <sup>`FOSS`</sup>
@@ -443,19 +443,19 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 📞 Communication
 
 * **Contacts**
-  * `MDY` [Fossify Contacts](https://github.com/FossifyOrg/Contacts) ⭐ 889 | 🐛 143 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
-  * `MDY` [Connect You](https://github.com/you-apps/ConnectYou) ⭐ 717 | 🐛 18 | 🌐 Kotlin | 📅 2026-07-30 <sup>`FOSS`</sup>
+  * `MDY` [Fossify Contacts](https://github.com/FossifyOrg/Contacts) ⭐ 890 | 🐛 143 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+  * `MDY` [Connect You](https://github.com/you-apps/ConnectYou) ⭐ 718 | 🐛 18 | 🌐 Kotlin | 📅 2026-07-30 <sup>`FOSS`</sup>
   * `MD3E` [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
   * `MDY` [Right Contacts](https://play.google.com/store/apps/details?id=com.goodwy.contacts) <sup>`FOSS`</sup>
 * **Dialer**
-  * `MDY` [Fossify Phone](https://github.com/FossifyOrg/Phone) ⭐ 1,306 | 🐛 168 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
-  * `MDY` [Koler](https://github.com/Chooloo/koler) ⭐ 1,067 | 🐛 114 | 🌐 Kotlin | 📅 2024-12-27 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MD3E` [RivoPhoneApp](https://github.com/user-grinch/RivoPhoneApp) ⭐ 177 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+  * `MDY` [Fossify Phone](https://github.com/FossifyOrg/Phone) ⭐ 1,307 | 🐛 168 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+  * `MDY` [Koler](https://github.com/Chooloo/koler) ⭐ 1,066 | 🐛 114 | 🌐 Kotlin | 📅 2024-12-27 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+  * `MD3E` [RivoPhoneApp](https://github.com/user-grinch/RivoPhoneApp) ⭐ 178 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MD3E` [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
   * `MDY` [Right Dialer](https://play.google.com/store/apps/details?id=com.goodwy.dialer) <sup>`FOSS`</sup>
   * `MY` [Octavi Dialer](https://www.pling.com/p/1571900) <sup>`PORT`</sup>
 * **SMS Messenger**
-  * `MDY` [Fossify Messages](https://github.com/FossifyOrg/Messages) ⭐ 1,516 | 🐛 195 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+  * `MDY` [Fossify Messages](https://github.com/FossifyOrg/Messages) ⭐ 1,517 | 🐛 195 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
   * `MD3E` [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
   * `MDY` [Right Messages](https://play.google.com/store/apps/details?id=com.goodwy.smsmessenger) <sup>`FOSS`</sup>
 * **Voicemail**
@@ -467,9 +467,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 📧 Email Clients
 
-* `MD` [Thunderbird](https://github.com/thunderbird/thunderbird-android) ⭐ 13,890 | 🐛 1,054 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
-* `MY` [FairEmail](https://github.com/M66B/FairEmail) ⭐ 4,575 | 🐛 3 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) ⭐ 212 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MD` [Thunderbird](https://github.com/thunderbird/thunderbird-android) ⭐ 13,897 | 🐛 1,056 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+* `MY` [FairEmail](https://github.com/M66B/FairEmail) ⭐ 4,576 | 🐛 3 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [Infomaniak kMail](https://github.com/Infomaniak/android-kMail) ⭐ 213 | 🐛 25 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
 * `MD3E` [MonoMail](https://github.com/shrivatsav-0/monomail) ⭐ 167 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
 * `MD3E` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 * `MDY` [ltt.rs](https://codeberg.org/iNPUTmice/lttrs-android) <sup>`FOSS`</sup>
@@ -481,7 +481,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🈸 Translators
 
-* `MDY` [Translate You](https://github.com/you-apps/TranslateYou) ⭐ 1,528 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-04 <sup>`FOSS`</sup>
+* `MDY` [Translate You](https://github.com/you-apps/TranslateYou) ⭐ 1,530 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-04 <sup>`FOSS`</sup>
 * `MDY` [Screen Translator](https://github.com/vamsi3/screen-translator) ⭐ 110 | 🐛 21 | 🌐 Kotlin | 📅 2024-06-13 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Lentil Translate](https://github.com/yaxarat/lingvaandroid) ⭐ 107 | 🐛 12 | 🌐 Kotlin | 📅 2023-09-17 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD` [Moon Translator](https://github.com/MoonMonet/Translator) ⭐ 51 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-16 <sup>`FOSS`</sup>
@@ -511,11 +511,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🏠 Launchers
 
-* `MDY` [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) ⭐ 13,373 | 🐛 720 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`🐾`</sup>
-* `MDY` [Kvaesitso](https://github.com/MM2-0/Kvaesitso) ⭐ 5,026 | 🐛 685 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Lawnchair](https://github.com/LawnchairLauncher/lawnchair) ⭐ 13,385 | 🐛 719 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+* `MDY` [Kvaesitso](https://github.com/MM2-0/Kvaesitso) ⭐ 5,029 | 🐛 687 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) ⭐ 998 | 🐛 28 | 🌐 Shell | 📅 2023-08-16 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [Fossify Launcher](https://github.com/FossifyOrg/Launcher) ⭐ 675 | 🐛 93 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
-* `MDY` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) ⭐ 541 | 🐛 34 | 🌐 Kotlin | 📅 2024-04-27 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MDY` [Fossify Launcher](https://github.com/FossifyOrg/Launcher) ⭐ 676 | 🐛 93 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `MDY` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) ⭐ 542 | 🐛 34 | 🌐 Kotlin | 📅 2024-04-27 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Mini Car Launcher](https://github.com/jamal2362/Mini-Car-Launcher) ⭐ 8 | 🐛 0 | 🌐 Kotlin | 📅 2025-05-24 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD3E` [Be Nice](https://codeberg.org/tkuenneth/benice) <sup>`FOSS`</sup>
 * `MDY` [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
@@ -528,10 +528,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 * `MY` [Easy Homescreen](https://play.google.com/store/apps/details?id=easy.launcher)
 * `MY` [TouchFind](https://play.google.com/store/apps/details?id=com.davesla.easyfind) <sup>`🪦`</sup>
 * **Tools**
-  * `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) ⭐ 5,530 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-01
-    * `MDY` [Hide My Ass OSS](https://github.com/frknkrc44/HMA-OSS) ⭐ 2,933 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
+  * `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) ⭐ 5,531 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-01
+    * `MDY` [Hide My Ass OSS](https://github.com/frknkrc44/HMA-OSS) ⭐ 2,938 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
   * `MDY` [Smart Dock](https://github.com/axel358/smartdock) ⭐ 1,400 | 🐛 42 | 🌐 Kotlin | 📅 2026-05-21 <sup>`FOSS`</sup>
-  * `MDY` [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) ⭐ 1,305 | 🐛 7 | 🌐 Kotlin | 📅 2025-10-30 <sup>`FOSS`</sup>
+  * `MDY` [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) ⭐ 1,304 | 🐛 7 | 🌐 Kotlin | 📅 2025-10-30 <sup>`FOSS`</sup>
   * `MDY` [QuickSwitch](https://github.com/skittles9823/QuickSwitch) ⭐ 1,059 | 🐛 44 | 🌐 Shell | 📅 2024-07-07 <sup>`FOSS`</sup>
   * `MDY` [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller) ⭐ 435 | 🐛 4 | 🌐 Kotlin | 📅 2023-10-27 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MD` [Neo Feed](https://github.com/NeoApplications/Neo-Feed) ⭐ 270 | 🐛 14 | 🌐 Kotlin | 📅 2026-04-15 <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -553,9 +553,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MDY` [Telegram Themer](https://github.com/therxmv/Telegram-Themer) ⭐ 115 | 🐛 1 | 🌐 Kotlin | 📅 2026-07-22 <sup>`FOSS`</sup>
   * `MDY` [Telemone](https://github.com/Number869/TeleMone) ⭐ 106 | 🐛 0 | 🌐 Kotlin | 📅 2026-03-11 <sup>`FOSS`</sup>
 * **SystemUI**
-  * `MDY` [Iconify](https://github.com/Mahmud0808/Iconify) ⭐ 3,141 | 🐛 99 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MDY` [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) ⭐ 2,398 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
-  * `MDY` [Oxygen Customiser](https://github.com/DHD2280/Oxygen-Customizer) ⭐ 452 | 🐛 37 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MDY` [Iconify](https://github.com/Mahmud0808/Iconify) ⭐ 3,143 | 🐛 99 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MDY` [ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) ⭐ 2,399 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MDY` [Oxygen Customiser](https://github.com/DHD2280/Oxygen-Customizer) ⭐ 453 | 🐛 37 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) ⭐ 446 | 🐛 4 | 🌐 Kotlin | 📅 2021-11-28 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [PowerLine: Status Bar meters](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
   * `MDY` [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme)
@@ -571,14 +571,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### ⌨️ Keyboards
 
-* `MDY` [Florisboard](https://github.com/florisboard/florisboard) ⭐ 8,587 | 🐛 476 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MDY` [HeliBoard](https://github.com/Helium314/HeliBoard) ⭐ 5,913 | 🐛 811 | 🌐 Kotlin | 📅 2026-08-10 <sup>`FOSS`</sup>
-  * `MDY` [LeanType](https://github.com/LeanBitLab/LeanType) ⭐ 717 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-* `MY` [Fcitx5 for Android](https://github.com/fcitx5-android/fcitx5-android) ⭐ 5,568 | 🐛 98 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) ⭐ 1,565 | 🐛 58 | 🌐 Java | 📅 2026-08-18 <sup>`FOSS`</sup>
-* `MDY` [Thumb-Key](https://github.com/dessalines/thumb-key) ⭐ 1,537 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup>
-* `MDY` [BiBi Keyboard](https://github.com/BryceWG/BiBi-Keyboard) ⭐ 746 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup> <sup>`💰`</sup>
-* `MDY` [Fossify Keyboard](https://github.com/FossifyOrg/Keyboard) ⭐ 659 | 🐛 81 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `MDY` [Florisboard](https://github.com/florisboard/florisboard) ⭐ 8,588 | 🐛 477 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [HeliBoard](https://github.com/Helium314/HeliBoard) ⭐ 5,918 | 🐛 813 | 🌐 Kotlin | 📅 2026-08-10 <sup>`FOSS`</sup>
+  * `MDY` [LeanType](https://github.com/LeanBitLab/LeanType) ⭐ 718 | 🐛 30 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MY` [Fcitx5 for Android](https://github.com/fcitx5-android/fcitx5-android) ⭐ 5,571 | 🐛 98 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) ⭐ 1,567 | 🐛 58 | 🌐 Java | 📅 2026-08-18 <sup>`FOSS`</sup>
+* `MDY` [Thumb-Key](https://github.com/dessalines/thumb-key) ⭐ 1,536 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [BiBi Keyboard](https://github.com/BryceWG/BiBi-Keyboard) ⭐ 748 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup> <sup>`💰`</sup>
+* `MDY` [Fossify Keyboard](https://github.com/FossifyOrg/Keyboard) ⭐ 660 | 🐛 81 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
 * `MDY` [FUTO Keyboard](https://keyboard.futo.org/)
 * `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 * `MY` [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard)
@@ -590,10 +590,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🎴 Icons/Wallpapers/Widgets
 
 * **Icons**
-  * `MD3E` [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) ⭐ 2,072 | 🐛 50 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`🐾`</sup>
-  * `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons) ⭐ 1,541 | 🐛 23 | 🌐 Java | 📅 2026-08-21 <sup>`FOSS`</sup>
+  * `MD3E` [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) ⭐ 2,075 | 🐛 52 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+  * `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons) ⭐ 1,543 | 🐛 24 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [Blueprint](https://github.com/jahirfiquitiva/Blueprint) ⭐ 931 | 🐛 2 | 🌐 Kotlin | 📅 2026-06-05 <sup>`FOSS`</sup>
-  * `MDY` [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android) ⭐ 406 | 🐛 5 | 🌐 Kotlin | 📅 2026-07-08 <sup>`FOSS`</sup>
+  * `MDY` [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android) ⭐ 406 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [DGicons Monet](https://github.com/WaifuPX-DG/DGicons) ⭐ 73 | 🐛 18 | 📅 2023-01-19 <sup>`🪦`</sup>
   * `MDY` [TeamFiles Lawnicons](https://github.com/TeamFiles/Lawnicons) ⭐ 71 | 🐛 8 | 🌐 Java | 📅 2023-03-11 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Nyon Material You icons](https://play.google.com/store/apps/details?id=dev.lknninex.nyon.material) <sup>`💰`</sup>
@@ -609,8 +609,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MY` [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color) <sup>`💰`</sup>
   * `MY` [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack) <sup>`💰`</sup>
 * **Wallpaper**
-  * `MDY` [Paperize](https://github.com/Anthonyy232/Paperize) ⭐ 1,189 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
-  * `MDY` [WallYou](https://github.com/you-apps/WallYou) ⭐ 1,064 | 🐛 13 | 🌐 Kotlin | 📅 2026-07-25 <sup>`FOSS`</sup>
+  * `MDY` [Paperize](https://github.com/Anthonyy232/Paperize) ⭐ 1,191 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+  * `MDY` [WallYou](https://github.com/you-apps/WallYou) ⭐ 1,065 | 🐛 13 | 🌐 Kotlin | 📅 2026-07-25 <sup>`FOSS`</sup>
   * `MDY` [Doodle: Live Wallpapers](https://github.com/patzly/doodle-android) ⭐ 846 | 🐛 29 | 🌐 Java | 📅 2025-02-28 <sup>`FOSS`</sup>
   * `MDY` [Peristyle](https://github.com/Hamza417/Peristyle) ⭐ 686 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
   * `MDY` [Frames](https://github.com/jahirfiquitiva/Frames) ⭐ 649 | 🐛 1 | 🌐 Kotlin | 📅 2026-06-05 <sup>`FOSS`</sup>
@@ -639,7 +639,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 * **Widgets/Shortcuts**
   * `MDY` [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) ⭐ 3,482 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-08 <sup>`FOSS`</sup>
   * `MD3E` [Material Photo Widget](https://github.com/fibelatti/photo-widget) ⭐ 329 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
-  * `MDY` [WiFi Widget](https://github.com/w2sv/WiFi-Widget) ⭐ 298 | 🐛 23 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
+  * `MDY` [WiFi Widget](https://github.com/w2sv/WiFi-Widget) ⭐ 297 | 🐛 23 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
   * `MDY` [Kuper](https://github.com/jahirfiquitiva/Kuper) ⭐ 248 | 🐛 1 | 🌐 Kotlin | 📅 2025-12-29 <sup>`FOSS`</sup>
   * `MDY` [Nothing Weather KOMP](https://github.com/bhaskar966/Nothing-Weather-KOMP) ⭐ 36 | 🐛 0 | 🌐 Kotlin | 📅 2022-08-29 <sup>`FOSS`</sup>
   * `MDY` [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/) ⭐ 21 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-15 <sup>`FOSS`</sup>
@@ -666,7 +666,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MDY` [Folder Widget](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
   * `MD` [Shortcut](https://play.google.com/store/apps/details?id=any.shortcut)
 * **Dynamic Island**
-  * `MDY` [MaterialYou Dynamic Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) ⭐ 292 | 🐛 28 | 🌐 Kotlin | 📅 2026-01-28 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+  * `MDY` [MaterialYou Dynamic Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) ⭐ 293 | 🐛 28 | 🌐 Kotlin | 📅 2026-01-28 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) <sup>`🪦`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -690,26 +690,26 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🎵 Music Players
 
-* `MDY` [Namida](https://github.com/namidaco/namida) ⭐ 6,247 | 🐛 149 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MD3E` [PixelPlayer](https://github.com/theovilardo/PixelPlayer) ⭐ 6,166 | 🐛 520 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
-* `MDY` [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer) ⭐ 5,267 | 🐛 366 | 🌐 Kotlin | 📅 2026-08-19 <sup>`FOSS`</sup>
+* `MDY` [Namida](https://github.com/namidaco/namida) ⭐ 6,251 | 🐛 150 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MD3E` [PixelPlayer](https://github.com/theovilardo/PixelPlayer) ⭐ 6,174 | 🐛 524 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+* `MDY` [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer) ⭐ 5,269 | 🐛 367 | 🌐 Kotlin | 📅 2026-08-19 <sup>`FOSS`</sup>
   * `MDY` [Metro](https://github.com/MuntashirAkon/Metro) ⭐ 1,604 | 🐛 84 | 🌐 Kotlin | 📅 2024-06-13 <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
 * `MDY` [Harmonoid](https://github.com/harmonoid/harmonoid) ⭐ 4,703 | 🐛 89 | 🌐 Dart | 📅 2026-08-09 <sup>`FOSS`</sup>
-* `MDY` [Auxio](https://github.com/OxygenCobalt/Auxio) ⭐ 4,184 | 🐛 205 | 🌐 Kotlin | 📅 2026-08-04 <sup>`FOSS`</sup>
-* `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) ⭐ 2,236 | 🐛 287 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [Auxio](https://github.com/OxygenCobalt/Auxio) ⭐ 4,185 | 🐛 202 | 🌐 Kotlin | 📅 2026-08-04 <sup>`FOSS`</sup>
+* `MDY` [Gramophone](https://github.com/AkaneTan/Gramophone) ⭐ 2,238 | 🐛 287 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Symphony](https://github.com/zyrouge/symphony) ⭐ 1,696 | 🐛 205 | 🌐 Kotlin | 📅 2026-07-20 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MD3E` [Meld](https://github.com/FrancescoGrazioso/Meld) ⭐ 1,361 | 🐛 92 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-* `MD3E` [Chocola](https://github.com/sosauce/Chocola) ⭐ 1,051 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup>
-* `MDY` [Fossify Music Player](https://github.com/FossifyOrg/Music-Player) ⭐ 896 | 🐛 90 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
-* `MD3E` [Rhythm](https://github.com/cromaguy/Rhythm) ⭐ 862 | 🐛 31 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MD3E` [Meld](https://github.com/FrancescoGrazioso/Meld) ⭐ 1,372 | 🐛 95 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MD3E` [Chocola](https://github.com/sosauce/Chocola) ⭐ 1,052 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup>
+* `MDY` [Fossify Music Player](https://github.com/FossifyOrg/Music-Player) ⭐ 897 | 🐛 90 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `MD3E` [Rhythm](https://github.com/cromaguy/Rhythm) ⭐ 866 | 🐛 25 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Lotus](https://github.com/dn0ne/lotus) ⭐ 702 | 🐛 87 | 🌐 Kotlin | 📅 2025-01-25 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [Phocid](https://github.com/tjysunset/phocid) ⭐ 510 | 🐛 48 | 🌐 Kotlin | 📅 2026-06-10 <sup>`FOSS`</sup>
-* `MDY` [Booming Music](https://github.com/ProjectOrbital/BoomingMusic) ⭐ 423 | 🐛 97 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+* `MDY` [Phocid](https://github.com/tjysunset/phocid) ⭐ 511 | 🐛 48 | 🌐 Kotlin | 📅 2026-06-10 <sup>`FOSS`</sup>
+* `MDY` [Booming Music](https://github.com/ProjectOrbital/BoomingMusic) ⭐ 425 | 🐛 97 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MY` [SoundCrowd](https://github.com/soundcrowd/soundcrowd) ⭐ 378 | 🐛 15 | 🌐 Kotlin | 📅 2026-06-01 <sup>`FOSS`</sup>
 * `MD` [mucke](https://github.com/moritz-weber/mucke) ⭐ 256 | 🐛 59 | 🌐 Dart | 📅 2026-08-16 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Vibe You](https://github.com/you-apps/VibeYou) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Zen](https://github.com/pakka-papad/Zen) ⭐ 248 | 🐛 6 | 🌐 Kotlin | 📅 2025-01-26 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MD3E` [Lune](https://github.com/MrDemonc/Lune) ⭐ 169 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MD3E` [Lune](https://github.com/MrDemonc/Lune) ⭐ 170 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
 * `MDY` [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Symphonica](https://github.com/AkaneTan/Symphonica) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD3E` [Dustvalve Next](https://github.com/Pingasmaster/dustvalve_next) ⭐ 36 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
@@ -729,16 +729,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### ▶️ Video Players
 
-* `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) ⭐ 4,309 | 🐛 475 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MD3E` [mpvEx](https://github.com/marlboro-advance/mpvEx) ⭐ 2,453 | 🐛 252 | 🌐 Kotlin | 📅 2026-03-21 <sup>`FOSS`</sup> <sup>`🐾`</sup>
-  * `MD3E` [mpvRex](https://github.com/sfsakhawat999/mpvRex) ⭐ 555 | 🐛 99 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-  * `MD3E` [mpvRx](https://github.com/Riteshp2001/mpvRx) ⭐ 506 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MDY` [NextPlayer](https://github.com/anilbeesetti/nextplayer) ⭐ 4,312 | 🐛 476 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MD3E` [mpvEx](https://github.com/marlboro-advance/mpvEx) ⭐ 2,454 | 🐛 251 | 🌐 Kotlin | 📅 2026-03-21 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+  * `MD3E` [mpvRex](https://github.com/sfsakhawat999/mpvRex) ⭐ 561 | 🐛 101 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  * `MD3E` [mpvRx](https://github.com/Riteshp2001/mpvRx) ⭐ 511 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
   * `MD3E` [MpvRxN](https://github.com/WHITE-KNIGHT5/MpvRxN) ⭐ 40 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
   * `MD3E` [mpvFlux](https://github.com/Muhammedahmed18/mpvFlux) ⭐ 37 | 🐛 0 | 🌐 Kotlin | 📅 2026-06-26 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [mpvKt](https://github.com/abdallahmehiz/mpvKt) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MD3E` [Flux](https://github.com/the-mskd-dev/Flux) ⭐ 79 | 🐛 29 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MD` [Aperture](https://github.com/XDanfr/Aperture) ⭐ 29 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MDY` [Asukaplayer](https://github.com/qianmokano/Asukaplayer) ⭐ 10 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MD3E` [Flux](https://github.com/the-mskd-dev/Flux) ⭐ 79 | 🐛 29 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MD` [Aperture](https://github.com/XDanfr/Aperture) ⭐ 29 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
+* `MDY` [Asukaplayer](https://github.com/qianmokano/Asukaplayer) ⭐ 10 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MD3E` [Reefin Video Player](https://play.google.com/store/apps/details?id=com.shady.reefin)
 * `MD3E` [Material Player](https://play.google.com/store/apps/details?id=com.akira.material)
 * `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`MOD`</sup>
@@ -751,39 +751,39 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 #### 💌 Youtube Clients
 
-* `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) ⭐ 12,524 | 🐛 150 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) ⭐ 12,538 | 🐛 150 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MD` [VueTube](https://github.com/VueTubeApp/VueTube) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [Flow](https://github.com/A-EDev/Flow) ⭐ 1,949 | 🐛 106 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [Flow](https://github.com/A-EDev/Flow) ⭐ 1,954 | 🐛 106 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Clipious](https://github.com/lamarios/clipious) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MD` [Materialious](https://github.com/Materialious/Materialious) ⭐ 1,119 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `MD` [Materialious](https://github.com/Materialious/Materialious) ⭐ 1,119 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Hyperion](https://github.com/zt64/Hyperion) ⭐ 791 | 🐛 44 | 🌐 Kotlin | 📅 2026-08-15 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [TubeSync](https://github.com/khaled-0/TubeSync) ⭐ 264 | 🐛 11 | 🌐 Dart | 📅 2026-01-20 <sup>`FOSS`</sup>
-* `MDY` [NewPipe Material](https://github.com/wizdom13/NewPipe_Material) ⭐ 132 | 🐛 2 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MDY` [NewPipe Material](https://github.com/wizdom13/NewPipe_Material) ⭐ 142 | 🐛 2 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
 #### 🎶 Youtube Music Clients
 
 * `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MY` [RiMusic](https://github.com/fast4x/RiMusic) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup><sup>`FORK`</sup>
-  * `MY` [ViTune](https://github.com/25huizengek1/ViTune) ⭐ 1,200 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-  * `MDY` [N-Zik](https://github.com/N-Zik-Group/N-Zik) ⭐ 184 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-* `MDY` [InnerTune](https://github.com/z-huang/InnerTune) ⭐ 6,037 | 🐛 268 | 🌐 Kotlin | 📅 2025-11-13 <sup>`FOSS`</sup>
-  * `MD3E` [Metrolist](https://github.com/mostafaalagamy/Metrolist) ⭐ 12,130 | 🐛 491 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-    * `MD3E` [ArchiveTune](https://github.com/koiverse/ArchiveTune) ⭐ 5,000 | 🐛 84 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-      * `MD3E` [M3 Play](https://github.com/JAY01-CYBER/M3-Play) ⭐ 223 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-    * `MDY` [MetroFuse](https://github.com/956tris/MetroFuse) ⭐ 136 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-  * `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) ⭐ 5,346 | 🐛 305 | 🌐 Kotlin | 📅 2026-04-25 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  * `MY` [ViTune](https://github.com/25huizengek1/ViTune) ⭐ 1,202 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  * `MDY` [N-Zik](https://github.com/N-Zik-Group/N-Zik) ⭐ 187 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MDY` [InnerTune](https://github.com/z-huang/InnerTune) ⭐ 6,043 | 🐛 268 | 🌐 Kotlin | 📅 2025-11-13 <sup>`FOSS`</sup>
+  * `MD3E` [Metrolist](https://github.com/mostafaalagamy/Metrolist) ⭐ 12,161 | 🐛 491 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+    * `MD3E` [ArchiveTune](https://github.com/koiverse/ArchiveTune) ⭐ 5,099 | 🐛 84 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+      * `MD3E` [M3 Play](https://github.com/JAY01-CYBER/M3-Play) ⭐ 225 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+    * `MDY` [MetroFuse](https://github.com/956tris/MetroFuse) ⭐ 137 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  * `MDY` [OuterTune](https://github.com/DD3Boh/OuterTune) ⭐ 5,356 | 🐛 305 | 🌐 Kotlin | 📅 2026-04-25 <sup>`FOSS`</sup> <sup>`FORK`</sup>
   * `MDY` [Simple Tube](https://github.com/samyak2403/Simple-Tube) ⭐ 163 | 🐛 21 | 🌐 Kotlin | 📅 2025-11-21 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-* `MDY` [Musify](https://github.com/gokadzev/Musify) ⭐ 4,156 | 🐛 28 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MDY` [Harmony Music](https://github.com/anandnet/Harmony-Music) ⭐ 3,075 | 🐛 323 | 🌐 Dart | 📅 2025-12-08 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MD3E` [VIVI](https://github.com/vivizzz007/vivi-music) ⭐ 1,626 | 🐛 105 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Musify](https://github.com/gokadzev/Musify) ⭐ 4,164 | 🐛 27 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Harmony Music](https://github.com/anandnet/Harmony-Music) ⭐ 3,076 | 🐛 323 | 🌐 Dart | 📅 2025-12-08 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MD3E` [VIVI](https://github.com/vivizzz007/vivi-music) ⭐ 1,638 | 🐛 108 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
 * `MDY` [SpMp](https://github.com/sayaka-sh/spmp) ⭐ 1,447 | 🐛 46 | 🌐 Kotlin | 📅 2026-05-01 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Kanon](https://gitlab.com/syk.sh/kanon) <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [Gyawun Music](https://github.com/sheikhhaziq/gyawun_music) ⭐ 800 | 🐛 139 | 🌐 Dart | 📅 2026-04-05 <sup>`FOSS`</sup>
-* `MDY` [Muzza](https://github.com/Maloy-Android/Muzza) ⭐ 687 | 🐛 42 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup>
-* `MD` [Echo Music](https://github.com/EchoMusicApp/Echo-Music) ⭐ 379 | 🐛 83 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
-* `MD3E` [Umihi Music](https://github.com/ilianoKokoro/umihi-music) ⭐ 234 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
-* `MDY` [SoundPod](https://github.com/arunnechully/SoundPod) ⭐ 106 | 🐛 46 | 🌐 Kotlin | 📅 2026-08-02 <sup>`FOSS`</sup>
-* `MDY` [Inzx](https://github.com/nirmaleeswar30/Inzx) ⭐ 68 | 🐛 1 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Muzza](https://github.com/Maloy-Android/Muzza) ⭐ 686 | 🐛 42 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup>
+* `MD` [Echo Music](https://github.com/EchoMusicApp/Echo-Music) ⭐ 420 | 🐛 108 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
+* `MD3E` [Umihi Music](https://github.com/ilianoKokoro/umihi-music) ⭐ 235 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `MDY` [SoundPod](https://github.com/arunnechully/SoundPod) ⭐ 106 | 🐛 47 | 🌐 Kotlin | 📅 2026-08-02 <sup>`FOSS`</sup>
+* `MDY` [Inzx](https://github.com/nirmaleeswar30/Inzx) ⭐ 68 | 🐛 0 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [You Tune](https://github.com/SuhasDissa/You-Tune) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD` [Harmoni](https://github.com/onedev22/harmoni) ⭐ 31 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 
@@ -791,22 +791,22 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 * `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Jetispot](https://github.com/BobbyESP/Jetispot) ⚠️ Archived <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
-* `MD3E` [Outify](https://github.com/iTomKo/Outify) ⭐ 129 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+* `MD3E` [Outify](https://github.com/iTomKo/Outify) ⭐ 131 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 
 #### 🐡 Subsonic Clients
 
-* `MD` [Tempo](https://github.com/CappielloAntonio/tempo) ⭐ 2,228 | 🐛 169 | 🌐 Java | 📅 2025-01-31 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MD3E` [Navic](https://github.com/paigely/Navic) ⭐ 928 | 🐛 50 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+* `MD` [Tempo](https://github.com/CappielloAntonio/tempo) ⭐ 2,230 | 🐛 169 | 🌐 Java | 📅 2025-01-31 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MD3E` [Navic](https://github.com/paigely/Navic) ⭐ 929 | 🐛 52 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
 * `MDY` [Youamp](https://github.com/siper/Youamp) ⭐ 271 | 🐛 23 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
 * `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) ⭐ 163 | 🐛 7 | 🌐 Kotlin | 📅 2023-07-31 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) <sup>`FOSS`</sup>
 
 #### 🔧 Miscellaneous (Anime, etc.)
 
-* `MDY` [Animeko](https://github.com/open-ani/animeko) ⭐ 19,717 | 🐛 500 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
-* `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) ⭐ 10,495 | 🐛 598 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Animeko](https://github.com/open-ani/animeko) ⭐ 19,737 | 🐛 507 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) ⭐ 10,504 | 🐛 599 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Aniyomi](https://github.com/jmir1/aniyomi) ⭐ 7,623 | 🐛 375 | 🌐 Kotlin | 📅 2026-08-19 <sup>`FOSS`</sup>
-  * `MDY` [Animiru](https://github.com/Quickdesh/Animiru) ⭐ 850 | 🐛 36 | 🌐 Kotlin | 📅 2026-08-15 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  * `MDY` [Animiru](https://github.com/Quickdesh/Animiru) ⭐ 851 | 🐛 35 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [M3UAndroid](https://github.com/oxyroid/M3UAndroid/) ⭐ 1,235 | 🐛 82 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup>
 * `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD` [Drive Stream](https://github.com/itszechs/DriveStream) ⭐ 306 | 🐛 14 | 🌐 Kotlin | 📅 2024-12-29 <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -823,25 +823,25 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 📑 Tracking Services
 
-* `MDY` [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) ⭐ 17,496 | 🐛 121 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MDY` [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) ⭐ 17,547 | 🐛 121 | 🌐 Dart | 📅 2026-08-24 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [PiliPala](https://github.com/guozhigq/pilipala) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Tivi](https://github.com/chrisbanes/tivi) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) ⭐ 2,246 | 🐛 74 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MDY` [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) ⭐ 2,145 | 🐛 60 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) ⭐ 2,247 | 🐛 74 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) ⭐ 2,146 | 🐛 60 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
 * `MD` [Showly](https://github.com/trakt/showly) ⭐ 1,448 | 🐛 150 | 🌐 Kotlin | 📅 2026-06-25 <sup>`FOSS`</sup> <sup>`🐾`</sup>
 * `MDY` [MoeList](https://github.com/axiel7/MoeList) ⭐ 643 | 🐛 39 | 🌐 Kotlin | 📅 2026-08-09 <sup>`FOSS`</sup>
-* `MDY` [AniHyou](https://github.com/axiel7/AniHyou-android) ⭐ 583 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+* `MDY` [AniHyou](https://github.com/axiel7/AniHyou-android) ⭐ 584 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`🐾`</sup>
 * `MDY` [Nekome](https://github.com/Chesire/Nekome) ⭐ 519 | 🐛 23 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Animite](https://github.com/imashnake0/Animite) ⭐ 509 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
 * `MY` [Otraku](https://github.com/lotusprey/otraku) ⭐ 460 | 🐛 48 | 🌐 Dart | 📅 2026-07-29 <sup>`FOSS`</sup>
 * `MDY` [DailyAL](https://github.com/JICA98/DailyAL) ⭐ 367 | 🐛 21 | 🌐 Dart | 📅 2026-05-02 <sup>`FOSS`</sup>
-* `MDY` [Movie DB](https://github.com/WirelessAlien/MovieDB) ⭐ 349 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [Movie DB](https://github.com/WirelessAlien/MovieDB) ⭐ 349 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Movies](https://github.com/michaelbel/movies) ⭐ 338 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
 * `MD` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) ⭐ 299 | 🐛 1 | 🌐 Kotlin | 📅 2025-07-24 <sup>`FOSS`</sup>
 * `MD` [TV Randshow](https://github.com/deandreamatias/tv-randshow) ⚠️ Archived <sup>`FOSS`</sup>
-* `MDY` [Kitsune](https://github.com/Drumber/Kitsune) ⭐ 233 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [Kitsune](https://github.com/Drumber/Kitsune) ⭐ 233 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MD3E` [AniSync](https://github.com/Marco-9456/AniSync) ⭐ 120 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [ShikiApp](https://github.com/pewaru-333/ShikiApp) ⭐ 90 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup>
+* `MDY` [ShikiApp](https://github.com/pewaru-333/ShikiApp) ⭐ 92 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup>
 * `MD` [Flick](https://github.com/f33lnothin9/flick) ⭐ 71 | 🐛 0 | 🌐 Kotlin | 📅 2025-08-16 <sup>`FOSS`</sup>
 * `MY` [Komori](https://github.com/MarshMeadow/Komori) ⭐ 38 | 🐛 0 | 📅 2026-07-02 <sup>`🪦`</sup>
 * `MD3E` [Watch Master](https://github.com/PranshulGG/WatchMaster) ⭐ 37 | 🐛 1 | 🌐 Kotlin | 📅 2026-04-16 <sup>`FOSS`</sup>
@@ -856,9 +856,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🎙️ Podcast
 
-* `MDY` [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,100 | 🐛 362 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [PodAura](https://github.com/SkyD666/PodAura) ⭐ 1,255 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
-* `MD3E` [Boxlore](https://github.com/ashwkun/boxlore) ⭐ 62 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,100 | 🐛 363 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [PodAura](https://github.com/SkyD666/PodAura) ⭐ 1,255 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MD3E` [Boxlore](https://github.com/ashwkun/boxlore) ⭐ 64 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
 * `MDY` [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app)
 * `MDY` [FocusPodcast and AudioBooks](https://play.google.com/store/apps/details?id=allen.town.focus.podcast)
 * `MDY` [Aurelian Audio](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast)
@@ -870,10 +870,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 📖 Audiobook & Misc.
 
-* `MDY` [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,087 | 🐛 120 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Voice](https://github.com/PaulWoitaschek/Voice) ⭐ 3,089 | 🐛 120 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Auraninja](https://github.com/Giuig/auraninja) ⭐ 90 | 🐛 13 | 🌐 Dart | 📅 2026-08-17 <sup>`FOSS`</sup>
 * `MD` [Equran](https://github.com/ya27hw/equran_app) ⭐ 56 | 🐛 4 | 🌐 Dart | 📅 2026-08-15 <sup>`FOSS`</sup>
-* `MDY` [storii](https://github.com/likhithpraveenk/storii) ⭐ 53 | 🐛 4 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [storii](https://github.com/likhithpraveenk/storii) ⭐ 54 | 🐛 4 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MD3E` [Mostaqem](https://github.com/Mostaqem/mostaqem_android) ⭐ 31 | 🐛 7 | 🌐 Kotlin | 📅 2026-01-08 <sup>`FOSS`</sup>
 * `MD` [Hear quran](https://play.google.com/store/apps/details?id=com.psh.hear_quran)
 
@@ -883,8 +883,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🖥️ Media Servers
 
-* `MDY` [Findroid for Jellyfin](https://github.com/jarnedemeulemeester/findroid) ⭐ 4,213 | 🐛 302 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
-* `MDY` [StashFlow](https://github.com/Alchemist-Aloha/StashFlow) ⭐ 55 | 🐛 12 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Findroid for Jellyfin](https://github.com/jarnedemeulemeester/findroid) ⭐ 4,215 | 🐛 304 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `MDY` [StashFlow](https://github.com/Alchemist-Aloha/StashFlow) ⭐ 55 | 🐛 5 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -893,7 +893,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🎛️ Equalizers
 
-* `MDY` [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) ⭐ 1,636 | 🐛 138 | 🌐 C | 📅 2026-07-24 <sup>`FOSS`</sup>
+* `MDY` [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) ⭐ 1,638 | 🐛 139 | 🌐 C | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [ViperFX RE](https://github.com/WSTxda/ViperFX-RE-Releases) ⚠️ Archived <sup>`MOD`</sup>
 * `MDY` [Wavelet](https://play.google.com/store.apps/details?id=com.pittvandewitt.wavelet)
 * `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`MOD`</sup>
@@ -907,27 +907,27 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🖼️ Gallery & Tools
 
-* `MDY` [Immich](https://github.com/immich-app/immich) ⭐ 112,374 | 🐛 709 | 🌐 TypeScript | 📅 2026-08-23 <sup>`FOSS`</sup>
-* `MY` [Aves](https://github.com/deckerst/aves) ⭐ 5,127 | 🐛 177 | 🌐 Dart | 📅 2026-08-08 <sup>`FOSS`</sup>
-* `MDY` [Fossify Gallery](https://github.com/FossifyOrg/Gallery) ⭐ 3,631 | 🐛 310 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
-* `MDY` [ReFra](https://github.com/IacobIonut01/ReFra) ⭐ 2,663 | 🐛 147 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) ⭐ 2,646 | 🐛 40 | 📅 2025-12-21 <sup>`FOSS`</sup> <sup>`MOD`</sup>
-* `MDY` [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos) ⭐ 623 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
-* `MDY` [PhotoPrism Gallery](https://github.com/Radiokot/photoprism-android-client) ⭐ 606 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+* `MDY` [Immich](https://github.com/immich-app/immich) ⭐ 112,479 | 🐛 704 | 🌐 TypeScript | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MY` [Aves](https://github.com/deckerst/aves) ⭐ 5,134 | 🐛 178 | 🌐 Dart | 📅 2026-08-08 <sup>`FOSS`</sup>
+* `MDY` [Fossify Gallery](https://github.com/FossifyOrg/Gallery) ⭐ 3,630 | 🐛 310 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `MDY` [ReFra](https://github.com/IacobIonut01/ReFra) ⭐ 2,667 | 🐛 150 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [QuickPic Gallery Mod](https://github.com/WSTxda/QP-Gallery-Releases) ⭐ 2,647 | 🐛 40 | 📅 2025-12-21 <sup>`FOSS`</sup> <sup>`MOD`</sup>
+* `MDY` [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos) ⭐ 625 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [PhotoPrism Gallery](https://github.com/Radiokot/photoprism-android-client) ⭐ 607 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MD` [Coon gallery](https://github.com/BOTPanzer/Coon-Gallery/) ⭐ 61 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MD3E` [Photon Gallery](https://github.com/RomanK2311/Photon_Gallery) ⭐ 4 | 🐛 0 | 📅 2026-06-15 <sup>`FOSS`</sup>
+* `MD3E` [Photon Gallery](https://github.com/RomanK2311/Photon_Gallery) ⭐ 5 | 🐛 0 | 📅 2026-06-15 <sup>`FOSS`</sup>
 * `MD3E` [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 * `MDY` [Right Gallery](https://play.google.com/store/apps/details?id=com.goodwy.gallery) <sup>`FOSS`</sup>
 * **Tools**
-  * `MD3E` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) ⭐ 14,309 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`🐾`</sup>
-  * `MDY` [Easy Watermark](https://github.com/rosuH/EasyWatermark) ⭐ 1,850 | 🐛 35 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MD3E` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) ⭐ 14,330 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+  * `MDY` [Easy Watermark](https://github.com/rosuH/EasyWatermark) ⭐ 1,851 | 🐛 35 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
   * `MDY` [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) ⭐ 416 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-10 <sup>`FOSS`</sup>
   * `MD` [Telephoto](https://github.com/ASRumon/Telephoto) ⭐ 295 | 🐛 5 | 📅 2026-08-05
   * `MD3E` [Momentum](https://github.com/shub39/Momentum) ⭐ 95 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
   * `MD3E` [Canvas](https://github.com/sameerasw/canvas) ⭐ 85 | 🐛 1 | 🌐 Kotlin | 📅 2026-05-06 <sup>`FOSS`</sup>
   * `MDY` [ImageCraft](https://github.com/YangDai2003/ImageCraft-Android) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MD3E` [Sorter](https://github.com/isaacsa51/Sorter) ⭐ 15 | 🐛 0 | 🌐 Kotlin | 📅 2026-02-08 <sup>`FOSS`</sup>
-  * `MD3E` [Snippets](https://github.com/blindman81/Snippets) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-15 <sup>`FOSS`</sup>
+  * `MD3E` [Sorter](https://github.com/isaacsa51/Sorter) ⭐ 16 | 🐛 0 | 🌐 Kotlin | 📅 2026-02-08 <sup>`FOSS`</sup>
+  * `MD3E` [Snippets](https://github.com/blindman81/Snippets) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) <sup>`💰`</sup>
   * `MDY` [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor)
   * `MDY` [SnapSeed](https://t.me/waifupx_official/145) <sup>`MOD`</sup>
@@ -941,8 +941,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 📷 Camera
 
-* `MD` [Libre Camera](https://github.com/iakmds/librecamera) ⭐ 442 | 🐛 77 | 🌐 Dart | 📅 2026-07-26 <sup>`FOSS`</sup>
-* `MDY` [Fossify Camera](https://github.com/FossifyOrg/Camera) ⭐ 439 | 🐛 60 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `MD` [Libre Camera](https://github.com/iakmds/librecamera) ⭐ 442 | 🐛 77 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [Fossify Camera](https://github.com/FossifyOrg/Camera) ⭐ 439 | 🐛 60 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Camera](https://github.com/SebaUbuntu/android_packages_apps_Aperture) ⭐ 94 | 🐛 9 | 🌐 Kotlin | 📅 2025-02-28 <sup>`FOSS`</sup>
 * `MDY` [Google Camera](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera)
 * `MD` [Selfie Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa)
@@ -953,7 +953,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🎙️ Audio Recorders
 
-* `MDY` [Alibi](https://github.com/Myzel394/Alibi) ⭐ 1,672 | 🐛 54 | 🌐 Kotlin | 📅 2026-02-11 <sup>`FOSS`</sup>
+* `MDY` [Alibi](https://github.com/Myzel394/Alibi) ⭐ 1,673 | 🐛 54 | 🌐 Kotlin | 📅 2026-02-11 <sup>`FOSS`</sup>
 * `MDY` [Fossify Recorder](https://github.com/FossifyOrg/Voice-Recorder) ⭐ 962 | 🐛 61 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
 * `MDY` [Record You](https://github.com/you-apps/recordYou) ⚠️ Archived <sup>`FOSS`</sup>
 * `MDY` [Recording Studio](https://github.com/Leonidius20/RecordingStudio) ⭐ 165 | 🐛 44 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
@@ -962,9 +962,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 * `MDY` [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor)
 * `MD` [Wear audio recorder](https://play.google.com/store/apps/details?id=com.rimidalv.dictaphone) <sup>`💰`</sup>
 * **Miscellaneous**
-  * `MD3E` [MicYou](https://github.com/LanRhyme/MicYou) ⭐ 3,297 | 🐛 17 | 🌐 Rust | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MD3E` [MicYou](https://github.com/LanRhyme/MicYou) ⭐ 3,301 | 🐛 19 | 🌐 Rust | 📅 2026-08-22 <sup>`FOSS`</sup>
   * `MDY` [Audile](https://github.com/aleksey-saenko/MusicRecognizer) ⭐ 1,260 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-  * `MDY` [Audire](https://github.com/alexmercerind/audire) ⭐ 476 | 🐛 13 | 🌐 Kotlin | 📅 2025-12-16 <sup>`FOSS`</sup>
+  * `MDY` [Audire](https://github.com/alexmercerind/audire) ⭐ 475 | 🐛 13 | 🌐 Kotlin | 📅 2025-12-16 <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -973,21 +973,21 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 📝 Notes/To-do/Wish-lists
 
 * **Notes**
-  * `MDY` [Saber](https://github.com/adil192/saber) ⭐ 4,709 | 🐛 396 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
+  * `MDY` [Saber](https://github.com/adil192/saber) ⭐ 4,715 | 🐛 396 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [Orgzly](https://github.com/orgzly/orgzly-android) ⭐ 2,813 | 🐛 517 | 🌐 Kotlin | 📅 2026-01-29 <sup>`FOSS`</sup>
-    * `MDY` [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) ⭐ 1,111 | 🐛 346 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-  * `MD` [Quillpad](https://github.com/quillpad/quillpad) ⭐ 1,360 | 🐛 294 | 🌐 Kotlin | 📅 2026-06-27 <sup>`FOSS`</sup>
-  * `MDY` [MoeMemos](https://github.com/mudkipme/MoeMemosAndroid) ⭐ 1,157 | 🐛 96 | 🌐 Kotlin | 📅 2026-07-16 <sup>`FOSS`</sup>
+    * `MDY` [Orgzly Revived](https://github.com/orgzly-revived/orgzly-android-revived) ⭐ 1,111 | 🐛 346 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  * `MD` [Quillpad](https://github.com/quillpad/quillpad) ⭐ 1,361 | 🐛 295 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
+  * `MDY` [MoeMemos](https://github.com/mudkipme/MoeMemosAndroid) ⭐ 1,158 | 🐛 97 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [Easy Notes](https://github.com/Kin69/EasyNotes) ⭐ 1,040 | 🐛 141 | 🌐 Kotlin | 📅 2026-01-25 <sup>`FOSS`</sup>
   * `MDY` [OpenNote](https://github.com/YangDai2003/OpenNote-Compose) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MDY` [jtxBoard](https://github.com/TechbeeAT/jtxBoard) ⭐ 671 | 🐛 108 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+  * `MDY` [jtxBoard](https://github.com/TechbeeAT/jtxBoard) ⭐ 672 | 🐛 108 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
   * `MDY` [Another Notes](https://github.com/maltaisn/another-notes-app) ⭐ 482 | 🐛 18 | 🌐 Kotlin | 📅 2025-12-01 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MD3E` [Lockbook](https://github.com/lockbook/lockbook) ⭐ 432 | 🐛 430 | 🌐 Rust | 📅 2026-08-21 <sup>`FOSS`</sup>
-  * `MD3E` [Kori](https://github.com/YangDai2003/Kori) ⭐ 370 | 🐛 50 | 🌐 Kotlin | 📅 2026-08-03 <sup>`FOSS`</sup>
+  * `MD3E` [Kori](https://github.com/YangDai2003/Kori) ⭐ 370 | 🐛 50 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MD` [Notify](https://github.com/aritra-tech/Notify) ⭐ 356 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Ruslin](https://github.com/ruslin-note/ruslin-android) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MD3E` [June](https://github.com/DenserMeerkat/June) ⭐ 179 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup>
-  * `MD3E` [VerveDo](https://github.com/Super12138/VerveDo) ⭐ 147 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MD3E` [June](https://github.com/DenserMeerkat/June) ⭐ 180 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MD3E` [VerveDo](https://github.com/Super12138/VerveDo) ⭐ 147 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
   * `MDY` [JustNotes](https://github.com/jjewuz/JustNotes) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Firenote](https://github.com/T8RIN/Firenote) ⭐ 103 | 🐛 1 | 🌐 Kotlin | 📅 2023-02-10 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MD` [Snappr](https://github.com/Iamlooker/Snappr/) ⭐ 85 | 🐛 17 | 🌐 Kotlin | 📅 2024-07-07 <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1006,9 +1006,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
   * `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
 * **Todo/Tasks**
-  * `MD` [Snaptick](https://github.com/vishal2376/snaptick) ⭐ 748 | 🐛 25 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MD` [Snaptick](https://github.com/vishal2376/snaptick) ⭐ 749 | 🐛 25 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MD` [Zest](https://github.com/darkmoonight/Zest) ⭐ 474 | 🐛 29 | 🌐 Dart | 📅 2026-08-18 <sup>`FOSS`</sup>
-  * `MDY` [Flux](https://github.com/chindaronit/Flux/tree/v2.2) ⭐ 309 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MDY` [Flux](https://github.com/chindaronit/Flux/tree/v2.2) ⭐ 325 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
   * `MD` [Trudido](https://github.com/dominikmuellr/trudido) ⭐ 252 | 🐛 16 | 🌐 Dart | 📅 2026-07-08 <sup>`FOSS`</sup>
   * `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) ⭐ 201 | 🐛 0 | 🌐 Kotlin | 📅 2026-04-16 <sup>`FOSS`</sup>
   * `MDY` [Mint Task](https://github.com/boredcodebyk/minttask) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1020,8 +1020,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
   * `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
 * **Diary/Journal**
-  * `MDY` [Daily You](https://github.com/Demizo/Daily_You) ⭐ 1,265 | 🐛 56 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MDY` [StoryPad](https://github.com/theachoem/storypad) ⭐ 943 | 🐛 10 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MDY` [Daily You](https://github.com/Demizo/Daily_You) ⭐ 1,268 | 🐛 56 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MDY` [StoryPad](https://github.com/theachoem/storypad) ⭐ 944 | 🐛 10 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
   * `MD` [OneShot](https://github.com/ptrLx/OneShot) ⭐ 51 | 🐛 9 | 🌐 Kotlin | 📅 2024-03-29 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MD3E` [Google Journal](https://play.google.com/store/apps/details?id=com.google.android.apps.pixel.aurelius)
   * `MDY` [Diarium](https://play.google.com/store/apps/details?id=partl.Diarium)
@@ -1031,14 +1031,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MD` [MoodWise](https://play.google.com/store/apps/details?id=com.lakesidecoding.moodwise) <sup>`🪦`</sup>
 * **Reminders**
   * `MDY` [Birday](https://github.com/m-i-n-a-r/birday) ⭐ 1,175 | 🐛 44 | 🌐 Kotlin | 📅 2026-06-30 <sup>`FOSS`</sup>
-  * `MDY` [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) ⭐ 224 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MDY` [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) ⭐ 225 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
   * `MY` [Scheduler](https://github.com/dgudim/Scheduler) ⭐ 29 | 🐛 1 | 🌐 Java | 📅 2025-12-08 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [WorkingHours](https://play.google.com/store/apps/details?id=partl.workinghours)
   * `MD` [Time wise](https://play.google.com/store/apps/details?id=com.psh.time_wise) <sup>`💰`</sup>
 * **Miscellaneous**
-  * `MDY` [Linwood Butterfly](https://github.com/LinwoodDev/Butterfly) ⭐ 1,981 | 🐛 46 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) ⭐ 689 | 🐛 45 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
-  * `MDY` [PDF Toolkit](https://github.com/Karna14314/Pdf_Tools) ⭐ 527 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MDY` [Linwood Butterfly](https://github.com/LinwoodDev/Butterfly) ⭐ 1,983 | 🐛 45 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) ⭐ 690 | 🐛 45 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MDY` [PDF Toolkit](https://github.com/Karna14314/Pdf_Tools) ⭐ 529 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
   * `MDY` [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) ⭐ 226 | 🐛 42 | 🌐 Kotlin | 📅 2026-04-02 <sup>`FOSS`</sup>
   * `MDY` [Function](https://github.com/sirekanian/function) ⭐ 3 | 🐛 0 | 🌐 Kotlin | 📅 2023-09-13 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Drafting](https://play.google.com/store/apps/details?id=sen.drafting)
@@ -1053,45 +1053,45 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 📖 Readers
 
 * **Manga/Novel/E-book Reader**
-  * `MDY` [Mihon](https://github.com/mihonapp/mihon) ⭐ 23,052 | 🐛 726 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MDY` [Mihon](https://github.com/mihonapp/mihon) ⭐ 23,074 | 🐛 722 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
     * `MDY` [Taison](https://github.com/Gent8/Taison) ⭐ 113 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-02 <sup>`FOSS`</sup> <sup>`FORK`</sup>
   * `MDY` [Kotatsu](https://github.com/KotatsuApp/Kotatsu) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-    * `MDY` [Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) ⭐ 821 | 🐛 48 | 🌐 Kotlin | 📅 2026-08-04 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-    * `MDY` [Futon](https://github.com/AppFuton/Futon) ⭐ 404 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-  * `MD` [ANX Reader](https://github.com/Anxcye/anx-reader) ⭐ 8,734 | 🐛 131 | 🌐 Dart | 📅 2026-06-07 <sup>`FOSS`</sup>
-  * `MD` [LNReader](https://github.com/LNReader/lnreader) ⭐ 2,789 | 🐛 277 | 🌐 TypeScript | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MDY` [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) ⭐ 2,001 | 🐛 55 | 🌐 Kotlin | 📅 2026-08-12 <sup>`FOSS`</sup>
-  * `MDY` [Myne](https://github.com/Pool-Of-Tears/Myne) ⭐ 1,508 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-  * `MDY` [Book's Story](https://github.com/Acclorite/book-story) ⭐ 1,369 | 🐛 59 | 🌐 Kotlin | 📅 2026-02-20 <sup>`FOSS`</sup>
-  * `MD` [IReader](https://github.com/IReaderorg/IReader) ⭐ 921 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-06 <sup>`FOSS`</sup>
+    * `MDY` [Kotatsu-Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) ⭐ 823 | 🐛 46 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+    * `MDY` [Futon](https://github.com/AppFuton/Futon) ⭐ 407 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  * `MD` [ANX Reader](https://github.com/Anxcye/anx-reader) ⭐ 8,740 | 🐛 132 | 🌐 Dart | 📅 2026-06-07 <sup>`FOSS`</sup>
+  * `MD` [LNReader](https://github.com/LNReader/lnreader) ⭐ 2,793 | 🐛 281 | 🌐 TypeScript | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MDY` [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) ⭐ 2,003 | 🐛 55 | 🌐 Kotlin | 📅 2026-08-12 <sup>`FOSS`</sup>
+  * `MDY` [Myne](https://github.com/Pool-Of-Tears/Myne) ⭐ 1,508 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MDY` [Book's Story](https://github.com/Acclorite/book-story) ⭐ 1,371 | 🐛 57 | 🌐 Kotlin | 📅 2026-02-20 <sup>`FOSS`</sup>
+  * `MD` [IReader](https://github.com/IReaderorg/IReader) ⭐ 922 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-06 <sup>`FOSS`</sup>
   * `MD` [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) ⭐ 363 | 🐛 34 | 🌐 Kotlin | 📅 2025-07-05 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Ranobe](https://github.com/ranobe-org/ranobe) ⭐ 252 | 🐛 4 | 🌐 Java | 📅 2026-04-11 <sup>`FOSS`</sup>
   * `MDY` [Novery](https://github.com/1Finn2me/Novery) ⭐ 53 | 🐛 27 | 🌐 Kotlin | 📅 2026-05-03 <sup>`FOSS`</sup>
   * `MY` [Hentoid](https://github.com/h6rd/Hentoid-Material-You) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Tachiyomi](https://github.com/tachiyomiorg) <sup>`FOSS`</sup> <sup>`🪦`</sup>
-    * `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) ⭐ 5,352 | 🐛 507 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-    * `MDY` [Komikku](https://github.com/komikku-app/komikku) ⭐ 4,582 | 🐛 425 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+    * `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) ⭐ 5,353 | 🐛 506 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+    * `MDY` [Komikku](https://github.com/komikku-app/komikku) ⭐ 4,591 | 🐛 425 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup> <sup>`FORK`</sup>
     * `MDY` [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) ⭐ 4,110 | 🐛 311 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-    * `MDY` [Neko](https://github.com/CarlosEsco/Neko) ⭐ 2,778 | 🐛 93 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+    * `MDY` [Neko](https://github.com/CarlosEsco/Neko) ⭐ 2,779 | 🐛 93 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
   * `MDY` [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Cantook](https://play.google.com/store/apps/details?id=com.aldiko.android)
   * `MY` [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
 * **RSS/News Reader**
-  * `MDY` [ReadYou](https://github.com/Ashinch/ReadYou) ⭐ 7,441 | 🐛 468 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup>
-  * `MDY` [Feeder](https://github.com/spacecowboy/Feeder) ⭐ 2,977 | 🐛 227 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
-  * `MDY` [Twine](https://github.com/msasikanth/twine/) ⭐ 2,386 | 🐛 21 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MDY` [ReadYou](https://github.com/Ashinch/ReadYou) ⭐ 7,446 | 🐛 472 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup>
+  * `MDY` [Feeder](https://github.com/spacecowboy/Feeder) ⭐ 2,980 | 🐛 228 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MDY` [Twine](https://github.com/msasikanth/twine/) ⭐ 2,386 | 🐛 21 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [Capy Reader](https://github.com/jocmp/capyreader) ⭐ 1,330 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-03 <sup>`FOSS`</sup>
-  * `MDY` [FeedFlow](https://github.com/prof18/feed-flow) ⭐ 1,170 | 🐛 88 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MDY` [FeedFlow](https://github.com/prof18/feed-flow) ⭐ 1,170 | 🐛 86 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [News](https://github.com/bubelov/news) ⭐ 409 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
   * `MD` [Raven](https://github.com/ksh-b/raven) ⭐ 329 | 🐛 29 | 🌐 Dart | 📅 2025-08-16 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MDY` [Trending AI](https://github.com/HarlonWang/TrendingAI) ⭐ 244 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MDY` [Trending AI](https://github.com/HarlonWang/TrendingAI) ⭐ 244 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
   * `MDY` [Dirol Reader](https://github.com/therxmv/Dirol-Reader/) ⭐ 45 | 🐛 3 | 🌐 Kotlin | 📅 2024-10-02 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MD3E` [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) <sup>`FOSS`</sup>
   * `MD` [Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)
   * `MD` [Aggregator News](https://play.google.com/store/apps/details?id=com.and96.aggregator_news)
   * `MY` [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary) <sup>`🪦`</sup>
 * **Tracking Services**
-  * `MDY` [Openreads](https://github.com/mateusz-bak/openreads-android) ⭐ 1,622 | 🐛 47 | 🌐 Dart | 📅 2026-07-20 <sup>`FOSS`</sup>
+  * `MDY` [Openreads](https://github.com/mateusz-bak/openreads-android) ⭐ 1,620 | 🐛 47 | 🌐 Dart | 📅 2026-07-20 <sup>`FOSS`</sup>
   * `MDY` [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) ⭐ 167 | 🐛 10 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
   * `MDY` [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy)
 
@@ -1101,10 +1101,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🗓️ Calendar
 
-* `MY` [Etar](https://github.com/Etar-Group/Etar-Calendar) ⭐ 2,586 | 🐛 397 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup>
-* `MDY` [Fossify Calendar](https://github.com/FossifyOrg/Calendar) ⭐ 2,110 | 🐛 312 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `MY` [Etar](https://github.com/Etar-Group/Etar-Calendar) ⭐ 2,587 | 🐛 402 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [Fossify Calendar](https://github.com/FossifyOrg/Calendar) ⭐ 2,113 | 🐛 312 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
 * `MDY` [Persian Calendar](https://github.com/persian-calendar/persian-calendar) ⭐ 973 | 🐛 203 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MDY` [KashCal](https://github.com/KashCal/KashCal/) ⭐ 379 | 🐛 39 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [KashCal](https://github.com/KashCal/KashCal/) ⭐ 379 | 🐛 40 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
 * `MDY` [Ridna - Relationship Calendar](https://github.com/nexy791/Ridna) ⭐ 19 | 🐛 1 | 🌐 Kotlin | 📅 2024-08-31 <sup>`FOSS`</sup>
 * `MD3E` [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)
 * `MD3E` [Calendula](https://gitea.jeanlucmakiola.de/makiolaj/calendula) <sup>`FOSS`</sup>
@@ -1117,13 +1117,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### ⏱️ Clocks/Timers
 
 * `MDY` [Chrono](https://github.com/vicolo-dev/chrono) ⭐ 1,743 | 🐛 187 | 🌐 Dart | 📅 2025-01-13 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MD3E` [Tomato](https://github.com/nsh07/Tomato) ⭐ 1,414 | 🐛 50 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MDY` [Clock](https://github.com/BlackyHawky/Clock) ⭐ 1,071 | 🐛 30 | 🌐 Java | 📅 2026-07-28 <sup>`FOSS`</sup>
-* `MDY` [Fossify Clock](https://github.com/FossifyOrg/Clock) ⭐ 680 | 🐛 93 | 🌐 Kotlin | 📅 2026-08-19 <sup>`FOSS`</sup>
-* `MDY` [Clock You](https://github.com/you-apps/ClockYou) ⭐ 639 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MD3E` [Tomato](https://github.com/nsh07/Tomato) ⭐ 1,415 | 🐛 50 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Clock](https://github.com/BlackyHawky/Clock) ⭐ 1,073 | 🐛 31 | 🌐 Java | 📅 2026-07-28 <sup>`FOSS`</sup>
+* `MDY` [Fossify Clock](https://github.com/FossifyOrg/Clock) ⭐ 680 | 🐛 93 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [Clock You](https://github.com/you-apps/ClockYou) ⭐ 641 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
 * `MD3E` [Cofi](https://github.com/rozPierog/Cofi) ⭐ 442 | 🐛 34 | 🌐 Kotlin | 📅 2026-06-23 <sup>`FOSS`</sup>
-* `MD3E` [Reef](https://github.com/aload0/Reef) ⭐ 330 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
-* `MD3E` [FaceDown](https://github.com/arekbauer/FaceDown) ⭐ 174 | 🐛 11 | 🌐 Kotlin | 📅 2026-07-04
+* `MD3E` [Reef](https://github.com/aload0/Reef) ⭐ 332 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
+* `MD3E` [FaceDown](https://github.com/arekbauer/FaceDown) ⭐ 175 | 🐛 11 | 🌐 Kotlin | 📅 2026-07-04
 * `MD3E` [Clock Master](https://github.com/PranshulGG/ClockMaster) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD3E` [Fast Times](https://github.com/tom-murphy-development/FastTimes) ⭐ 37 | 🐛 27 | 🌐 Kotlin | 📅 2026-05-31 <sup>`FOSS`</sup>
 * `MDY` [Compose stopwatch](https://github.com/JustDeax/ComposeStopwatch) ⭐ 21 | 🐛 0 | 🌐 Kotlin | 📅 2026-06-28 <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1152,12 +1152,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🧮 Calculators/Unit Convertors
 
 * `MDY` [OpenCalc](https://github.com/Darkempire78/OpenCalc) ⭐ 1,517 | 🐛 57 | 🌐 Kotlin | 📅 2026-07-10 <sup>`FOSS`</sup>
-* `MDY` [Multi Calculator](https://github.com/YangDai-Github/Multi-Calculator-Android) ⭐ 735 | 🐛 16 | 🌐 Java | 📅 2025-11-21<sup>`FOSS`</sup>
-* `MDY` [Unitto](https://github.com/sadellie/unitto) ⭐ 698 | 🐛 40 | 🌐 Kotlin | 📅 2026-03-24 <sup>`FOSS`</sup>
+* `MDY` [Multi Calculator](https://github.com/YangDai-Github/Multi-Calculator-Android) ⭐ 736 | 🐛 16 | 🌐 Java | 📅 2025-11-21<sup>`FOSS`</sup>
+* `MDY` [Unitto](https://github.com/sadellie/unitto) ⭐ 699 | 🐛 40 | 🌐 Kotlin | 📅 2026-03-24 <sup>`FOSS`</sup>
   * `MDY` [NumberHub](https://github.com/Myzel394/NumberHub) ⭐ 222 | 🐛 30 | 🌐 Kotlin | 📅 2025-08-24 <sup>`FOSS`</sup>
-* `MDY` [Currencies](https://github.com/sal0max/currencies) ⭐ 345 | 🐛 21 | 🌐 Kotlin | 📅 2025-07-20 <sup>`FOSS`</sup>
+* `MDY` [Currencies](https://github.com/sal0max/currencies) ⭐ 345 | 🐛 23 | 🌐 Kotlin | 📅 2025-07-20 <sup>`FOSS`</sup>
 * `MDY` [Calculator You](https://github.com/forzzzzz/Calculator-You) ⭐ 324 | 🐛 36 | 🌐 Kotlin | 📅 2025-10-23 <sup>`FOSS`</sup>
-* `MD3E` [Vanilla](https://github.com/sosauce/Vanilla) ⭐ 281 | 🐛 14 | 🌐 Kotlin | 📅 2026-07-01 <sup>`FOSS`</sup>
+* `MD3E` [Vanilla](https://github.com/sosauce/Vanilla) ⭐ 282 | 🐛 14 | 🌐 Kotlin | 📅 2026-07-01 <sup>`FOSS`</sup>
 * `MDY` [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD` [Mint Calculator](https://github.com/boredcodebyk/mintcalc) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [zCalc](https://github.com/ziadOUA/zCalc) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1191,7 +1191,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MDY` [Literary Clock](https://github.com/AChep/literaryclock) ⭐ 19 | 🐛 6 | 🌐 Kotlin | 📅 2026-05-01 <sup>`FOSS`</sup>
   * `MDY` [Qwotable](https://github.com/Lijukay/Qwotable) ⭐ 1 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-09 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * **Miscellaneous**
-  * `MDY` [Atomic - Periodic Table](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) ⭐ 236 | 🐛 16 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup>
+  * `MDY` [Atomic - Periodic Table](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) ⭐ 237 | 🐛 16 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup>
   * `MD3E` [Self Attendance](https://play.google.com/store/apps/details?id=com.self.attendance)
   * `MD3E` [Vitals: ICD-10 & 11 Browser](https://play.google.com/store/apps/details?id=com.icdbrowser.app) <sup>`💰`</sup>
   * `MDY` [Aristo Kids](https://play.google.com/store/apps/details?id=com.aristo.aristokids)
@@ -1204,13 +1204,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 📁 File Explorers
 
-* `MDY` [Material Files](https://github.com/zhanghai/MaterialFiles) ⭐ 8,791 | 🐛 627 | 🌐 Kotlin | 📅 2026-04-06 <sup>`FOSS`</sup>
-* `MDY` [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) ⭐ 1,720 | 🐛 96 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
-* `MDY` [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer) ⭐ 1,351 | 🐛 85 | 🌐 Kotlin | 📅 2026-05-28 <sup>`FOSS`</sup>
-* `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract) ⭐ 1,100 | 🐛 15 | 🌐 Kotlin | 📅 2026-07-07 <sup>`FOSS`</sup>
-* `MDY` [File Navigator](https://github.com/w2sv/FileNavigator) ⭐ 572 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Material Files](https://github.com/zhanghai/MaterialFiles) ⭐ 8,797 | 🐛 627 | 🌐 Kotlin | 📅 2026-04-06 <sup>`FOSS`</sup>
+* `MDY` [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) ⭐ 1,721 | 🐛 96 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer) ⭐ 1,352 | 🐛 85 | 🌐 Kotlin | 📅 2026-05-28 <sup>`FOSS`</sup>
+* `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract) ⭐ 1,103 | 🐛 15 | 🌐 Kotlin | 📅 2026-07-07 <sup>`FOSS`</sup>
+* `MDY` [File Navigator](https://github.com/w2sv/FileNavigator) ⭐ 573 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
 * `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) ⭐ 165 | 🐛 4 | 🌐 Kotlin | 📅 2024-09-01 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [Voyager](https://github.com/AlanHuang99/Voyager) ⭐ 101 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-07 <sup>`FOSS`</sup>
+* `MDY` [Voyager](https://github.com/AlanHuang99/Voyager) ⭐ 102 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-07 <sup>`FOSS`</sup>
 * `MY` [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) <sup>`⚠️ Setup:` [`#1`](https://github.com/DerTyp7214/MixplorerThemeCreator) ⚠️ Archived [`#2`](https://github.com/jamal2362/Monet-Generator)</sup> <sup>`🐾`</sup>
 * `MD3E` [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
 * `MD3E` [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2) <sup>`💰`</sup>
@@ -1218,7 +1218,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 * `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 * `MY` [Right Files](https://play.google.com/store/apps/details?id=com.goodwy.filemanager) <sup>`FOSS`</sup>
 * **File Transfer**
-  * `MDY` [LocalSend](https://github.com/localsend/localsend) ⭐ 89,000 | 🐛 1,088 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
+  * `MDY` [LocalSend](https://github.com/localsend/localsend) ⭐ 89,144 | 🐛 1,089 | 🌐 Dart | 📅 2026-08-24 <sup>`FOSS`</sup>
   * `MD` [Photon](https://github.com/abhi16180/photon) ⭐ 608 | 🐛 16 | 🌐 Dart | 📅 2026-05-31 <sup>`FOSS`</sup>
   * `MY` [Warpinator](https://github.com/slowscript/warpinator-android) ⭐ 593 | 🐛 16 | 🌐 Java | 📅 2025-12-27 <sup>`FOSS`</sup>
   * `MDY` [iyox Wormhole](https://github.com/iyox-studios/iyox-Wormhole) ⭐ 233 | 🐛 12 | 🌐 Dart | 📅 2026-05-05 <sup>`FOSS`</sup>
@@ -1231,25 +1231,25 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🛍️ App Stores
 
 * **F-Droid Clients**
-  * `MDY` [Droid-ify](https://github.com/Iamlooker/Droid-ify) ⭐ 7,294 | 🐛 198 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`🐾`</sup>
-  * `MDY` [Neo Store](https://github.com/NeoApplications/Neo-Store) ⭐ 4,922 | 🐛 129 | 🌐 Kotlin | 📅 2026-04-25 <sup>`FOSS`</sup>
+  * `MDY` [Droid-ify](https://github.com/Iamlooker/Droid-ify) ⭐ 7,301 | 🐛 200 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+  * `MDY` [Neo Store](https://github.com/NeoApplications/Neo-Store) ⭐ 4,930 | 🐛 129 | 🌐 Kotlin | 📅 2026-04-25 <sup>`FOSS`</sup>
 * **Play Store Clients**
   * `MDY` [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) <sup>`FOSS`</sup>
 * **Miscellaneous**
-  * `MDY` [Revanced Manager](https://github.com/revanced/revanced-manager) ⭐ 29,181 | 🐛 174 | 🌐 Kotlin | 📅 2026-07-29 <sup>`FOSS`</sup>
-  * `MD3E` [Obtainium](https://github.com/ImranR98/Obtainium) ⭐ 19,157 | 🐛 408 | 🌐 Dart | 📅 2026-08-10 <sup>`FOSS`</sup> <sup>`🐾`</sup>
-    * `MD3E` [ObtainX](https://github.com/bikram-agarwal/ObtainX) ⭐ 1,018 | 🐛 9 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-  * `MDY` [Github Store](https://github.com/rainxchzed/Github-Store) ⭐ 17,852 | 🐛 110 | 🌐 Kotlin | 📅 2026-07-29 <sup>`FOSS`</sup>
-  * `MD3E` [Morphe Manager](https://github.com/MorpheApp/morphe-manager) ⭐ 7,351 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
-  * `MDY` [APK Updater](https://github.com/rumboalla/apkupdater) ⭐ 3,948 | 🐛 24 | 🌐 Kotlin | 📅 2026-05-28 <sup>`FOSS`</sup>
-  * `MD` [Orion Store](https://github.com/RookieEnough/Orion-Store) ⭐ 3,140 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-17 <sup>`FOSS`</sup>
-  * `MDY` [Accrescent](https://github.com/accrescent/accrescent) ⭐ 2,213 | 🐛 42 | 🌐 Kotlin | 📅 2026-08-19 <sup>`FOSS`</sup>
+  * `MDY` [Revanced Manager](https://github.com/revanced/revanced-manager) ⭐ 29,194 | 🐛 175 | 🌐 Kotlin | 📅 2026-07-29 <sup>`FOSS`</sup>
+  * `MD3E` [Obtainium](https://github.com/ImranR98/Obtainium) ⭐ 19,193 | 🐛 390 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+    * `MD3E` [ObtainX](https://github.com/bikram-agarwal/ObtainX) ⭐ 1,025 | 🐛 9 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  * `MDY` [Github Store](https://github.com/rainxchzed/Github-Store) ⭐ 17,889 | 🐛 113 | 🌐 Kotlin | 📅 2026-07-29 <sup>`FOSS`</sup>
+  * `MD3E` [Morphe Manager](https://github.com/MorpheApp/morphe-manager) ⭐ 7,375 | 🐛 23 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
+  * `MDY` [APK Updater](https://github.com/rumboalla/apkupdater) ⭐ 3,949 | 🐛 24 | 🌐 Kotlin | 📅 2026-05-28 <sup>`FOSS`</sup>
+  * `MD` [Orion Store](https://github.com/RookieEnough/Orion-Store) ⭐ 3,149 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-17 <sup>`FOSS`</sup>
+  * `MDY` [Accrescent](https://github.com/accrescent/accrescent) ⭐ 2,220 | 🐛 42 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup>
   * `MDY` [UpdateMe](https://github.com/anfreire/updateMe-Mobile) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MD3E` [URV Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) ⭐ 1,269 | 🐛 54 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+  * `MD3E` [URV Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) ⭐ 1,273 | 🐛 54 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
   * `MDY` [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
     * `MDY` [Bunny Manager](https://github.com/pyoncord/BunnyManager) ⚠️ Archived <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
-      * `MDY` [Revenge Manager](https://github.com/revenge-mod/revenge-manager) ⭐ 694 | 🐛 18 | 🌐 Kotlin | 📅 2026-01-12 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-  * `MDY` [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) ⭐ 579 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+      * `MDY` [Revenge Manager](https://github.com/revenge-mod/revenge-manager) ⭐ 695 | 🐛 18 | 🌐 Kotlin | 📅 2026-01-12 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  * `MDY` [Apps by GrapheneOS](https://github.com/GrapheneOS/Apps) ⭐ 580 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
   * `MDY` [AliucordRN Manager](https://github.com/Aliucord/AliucordRN) ⚠️ Archived <sup>`FOSS`</sup> <sup>🪦</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1258,9 +1258,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 📦 App Managers
 
-* `MDY` [App Manager](https://github.com/MuntashirAkon/AppManager) ⭐ 8,791 | 🐛 207 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`🐾`</sup>
-* `MDY` [Hail](https://github.com/aistra0528/Hail) ⭐ 6,502 | 🐛 169 | 🌐 Kotlin | 📅 2026-08-12 <sup>`FOSS`</sup>
-* `MY` [Inure](https://github.com/Hamza417/Inure) ⭐ 1,888 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [App Manager](https://github.com/MuntashirAkon/AppManager) ⭐ 8,802 | 🐛 207 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+* `MDY` [Hail](https://github.com/aistra0528/Hail) ⭐ 6,513 | 🐛 169 | 🌐 Kotlin | 📅 2026-08-12 <sup>`FOSS`</sup>
+* `MY` [Inure](https://github.com/Hamza417/Inure) ⭐ 1,890 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
 * `MY` [FreezeYou](https://github.com/FreezeYou/FreezeYou) ⭐ 270 | 🐛 34 | 🌐 Kotlin | 📅 2026-08-09 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
 * `MDY` [APK Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor)
@@ -1275,10 +1275,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 💾 Backup
 
-* `MDY` [Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup) ⭐ 7,246 | 🐛 186 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MDY` [Neo Backup](https://github.com/NeoApplications/Neo-Backup) ⭐ 3,772 | 🐛 240 | 🌐 Kotlin | 📅 2026-05-03 <sup>`FOSS`</sup>
+* `MDY` [Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup) ⭐ 7,256 | 🐛 186 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Neo Backup](https://github.com/NeoApplications/Neo-Backup) ⭐ 3,773 | 🐛 240 | 🌐 Kotlin | 📅 2026-05-03 <sup>`FOSS`</sup>
 * `MDY` [AppListBackup](https://github.com/AndroidLabs-org/AppListBackup) ⭐ 171 | 🐛 12 | 🌐 Kotlin | 📅 2025-04-14 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [Restoid](https://github.com/hddq/restoid) ⭐ 164 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [Restoid](https://github.com/hddq/restoid) ⭐ 164 | 🐛 15 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MD3E` [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`🐾`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1287,7 +1287,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🧹 Optimizer/Cleaners
 
-* `MDY` [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) ⭐ 7,346 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+* `MDY` [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) ⭐ 7,353 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`🐾`</sup>
 * `MDY` [FDE.AI](https://github.com/feravolt/FDE.AI-docs) ⭐ 666 | 🐛 0 | 🌐 HTML | 📅 2026-08-19
 * `MDY` [Android Enhancer](https://github.com/iamlooper/Android-Enhancer) ⭐ 338 | 🐛 1 | 🌐 Kotlin | 📅 2025-12-27
 
@@ -1297,12 +1297,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🪛 ADB Tools
 
-* `MDY` [aShell You](https://github.com/DP-Hridayan/ashell) ⭐ 2,212 | 🐛 36 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`🐾`</sup>
-* `MDY` [LogFox](https://github.com/F0x1d/LogFox) ⭐ 1,277 | 🐛 19 | 🌐 Kotlin | 📅 2026-06-25 <sup>`FOSS`</sup>
-* `MDY` [WADBS](https://github.com/Smooth-E/wireless-adb-switch) ⭐ 676 | 🐛 10 | 🌐 Kotlin | 📅 2026-05-26 <sup>`FOSS`</sup>
-* `MD` [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) ⭐ 248 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+* `MDY` [aShell You](https://github.com/DP-Hridayan/ashell) ⭐ 2,217 | 🐛 37 | 🌐 Kotlin | 📅 2026-08-24 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+* `MDY` [LogFox](https://github.com/F0x1d/LogFox) ⭐ 1,279 | 🐛 19 | 🌐 Kotlin | 📅 2026-06-25 <sup>`FOSS`</sup>
+* `MDY` [WADBS](https://github.com/Smooth-E/wireless-adb-switch) ⭐ 677 | 🐛 10 | 🌐 Kotlin | 📅 2026-05-26 <sup>`FOSS`</sup>
+* `MD` [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) ⭐ 248 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
 * `MY` [Termux Monet](https://github.com/Termux-Monet/termux-monet) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MDY` [Terminal EX](https://github.com/Graywizard888/Terminal_EX) ⭐ 85 | 🐛 0 | 🌐 Java | 📅 2026-05-11 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  * `MDY` [Terminal EX](https://github.com/Graywizard888/Terminal_EX) ⭐ 84 | 🐛 0 | 🌐 Java | 📅 2026-05-11 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [Logra](https://github.com/wingio/Logra) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Payload Dumper](https://github.com/rhythmcache/payload-dumper-gui) ⭐ 100 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-13 <sup>`FOSS`</sup>
 
@@ -1312,13 +1312,13 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 📲 Device Info/Monitors
 
-* `MDY` [LibChecker](https://github.com/LibChecker/LibChecker) ⭐ 7,115 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
-* `MDY` [Disky](https://github.com/newhinton/disky) ⭐ 947 | 🐛 8 | 🌐 Kotlin | 📅 2026-05-31 <sup>`FOSS`</sup>
+* `MDY` [LibChecker](https://github.com/LibChecker/LibChecker) ⭐ 7,116 | 🐛 21 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [Disky](https://github.com/newhinton/disky) ⭐ 948 | 🐛 8 | 🌐 Kotlin | 📅 2026-05-31 <sup>`FOSS`</sup>
 * `MD3E` [Traffic Light](https://github.com/leekleak/traffic-light) ⭐ 821 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-13 <sup>`FOSS`</sup>
 * `MDY` [Data Monitor](https://github.com/itsdrnoob/DataMonitor) ⭐ 752 | 🐛 77 | 🌐 Java | 📅 2025-08-04 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MD` [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) ⭐ 718 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-13 <sup>`FOSS`</sup>
+* `MD` [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) ⭐ 719 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-13 <sup>`FOSS`</sup>
 * `MDY` [YASNAC](https://github.com/RikkaW/YASNAC) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) ⭐ 464 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) ⭐ 465 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Athena](https://github.com/SebaUbuntu/Athena) ⭐ 418 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-05 <sup>`FOSS`</sup>
 * `MDY` [Boundo](https://github.com/cliuff/boundo) ⭐ 344 | 🐛 21 | 🌐 Kotlin | 📅 2026-07-08 <sup>`FOSS`</sup>
 * `MDY` [Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) ⭐ 197 | 🐛 1 | 🌐 Kotlin | 📅 2026-04-20 <sup>`FOSS`</sup>
@@ -1352,24 +1352,24 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### #️⃣ SuperUser (Root)
 
 * **SU Manager**
-  * `MDY` [KernelSU](https://github.com/tiann/KernelSU/) ⭐ 17,952 | 🐛 62 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MDY` [APatch](https://github.com/bmax121/APatch) ⭐ 7,833 | 🐛 86 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MD3E` [FolkPatch](https://github.com/LyraVoid/FolkPatch) ⭐ 1,066 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  * `MDY` [KernelSU](https://github.com/tiann/KernelSU/) ⭐ 17,973 | 🐛 60 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MDY` [APatch](https://github.com/bmax121/APatch) ⭐ 7,839 | 🐛 89 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MD3E` [FolkPatch](https://github.com/LyraVoid/FolkPatch) ⭐ 1,068 | 🐛 27 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup> <sup>`FORK`</sup>
   * `MDY` [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) ⭐ 147 | 🐛 0 | 🌐 C++ | 📅 2023-04-10 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MD3E` [Magisk-but-expressive](https://github.com/Anto426/Magisk-but-expressive) ⭐ 42 | 🐛 1 | 🌐 Kotlin | 📅 2026-07-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * **Module Managers**
-  * `MDY` [MMRL](https://github.com/DerGoogler/MMRL) ⭐ 2,137 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
+  * `MDY` [MMRL](https://github.com/DerGoogler/MMRL) ⭐ 2,138 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
   * `MDY` [Androidacy Module Manager](https://github.com/Androidacy/MagiskModuleManager) ⭐ 1,229 | 🐛 11 | 🌐 Kotlin | 📅 2026-04-09 <sup>`FOSS`</sup>
   * `MDY` [MRepo](https://github.com/ya0211/MRepo) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * **Magisk Detector**
-  * `MDY` [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) ⭐ 1,117 | 🐛 1 | 🌐 Kotlin | 📅 2023-10-31 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+  * `MDY` [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) ⭐ 1,118 | 🐛 1 | 🌐 Kotlin | 📅 2023-10-31 <sup>`FOSS`</sup> <sup>`🪦`</sup>
     * `MDY` [Ruru](https://github.com/byxiaorun/Ruru) ⭐ 816 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-19 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * **Modules** <sup>`⚠️ Use with caution!`</sup>
-  * [HyperOS Monet Project](https://github.com/MIUI-Monet-Project/Module) ⭐ 642 | 🐛 3 | 🌐 Shell | 📅 2025-03-12 <sup>`FOSS`</sup>
+  * [HyperOS Monet Project](https://github.com/MIUI-Monet-Project/Module) ⭐ 643 | 🐛 3 | 🌐 Shell | 📅 2025-03-12 <sup>`FOSS`</sup>
   * [Monet-All](https://monet.jerryz.com.cn/en/) <sup>`FOSS`</sup> <sup>[`Supported apps`](https://monet.jerryz.com.cn/en/guide/apps)</sup>
 * **Miscellaneous**
-  * `MDY` [Shizuku](https://github.com/RikkaApps/Shizuku) ⭐ 29,215 | 🐛 541 | 🌐 Kotlin | 📅 2025-06-18 <sup>`FOSS`</sup>
-    * `MDY` [Shizuku](https://github.com/thedjchi/Shizuku) ⭐ 5,224 | 🐛 64 | 🌐 Kotlin | 📅 2026-07-15 <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
+  * `MDY` [Shizuku](https://github.com/RikkaApps/Shizuku) ⭐ 29,258 | 🐛 542 | 🌐 Kotlin | 📅 2025-06-18 <sup>`FOSS`</sup>
+    * `MDY` [Shizuku](https://github.com/thedjchi/Shizuku) ⭐ 5,241 | 🐛 64 | 🌐 Kotlin | 📅 2026-07-15 <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
   * `MD3E` [RvKernel Manager](https://github.com/Rve27/RvKernel-Manager) ⭐ 253 | 🐛 11 | 🌐 Kotlin | 📅 2026-05-11 <sup>`FOSS`</sup>
   * `MD3E` [MKM](https://github.com/abhay-byte/mkm) ⭐ 136 | 🐛 7 | 🌐 Kotlin | 📅 2026-07-07 <sup>`FOSS`</sup>
 
@@ -1379,8 +1379,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🔬 Scanners
 
-* `MDY` [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner) ⭐ 2,375 | 🐛 87 | 🌐 C++ | 📅 2026-08-19 <sup>`FOSS`</sup>
-* `MD` [Scanly](https://github.com/Azyrn/Scanly) ⭐ 79 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-05 <sup>`FOSS`</sup>
+* `MDY` [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner) ⭐ 2,379 | 🐛 86 | 🌐 C++ | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MD` [Scanly](https://github.com/Azyrn/Scanly) ⭐ 80 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-05 <sup>`FOSS`</sup>
 * `MDY` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
 * `MDY` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`FOSS`</sup>
@@ -1397,7 +1397,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🔦 Flashlights
 
-* `MDY` [FlashDim](https://github.com/cyb3rko/flashdim) ⭐ 1,431 | 🐛 37 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup>
+* `MDY` [FlashDim](https://github.com/cyb3rko/flashdim) ⭐ 1,431 | 🐛 35 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Flashlight Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) ⭐ 183 | 🐛 8 | 🌐 Kotlin | 📅 2023-01-30 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD3E` [Lumolight](https://github.com/BitMavrick/Lumolight) ⭐ 170 | 🐛 9 | 🌐 Kotlin | 📅 2026-03-10 <sup>`FOSS`</sup>
 * `MD` [Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight)
@@ -1411,27 +1411,27 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🌐 Browsers
 
 * **Chromium**
-  * `MDY` [Bromite](https://github.com/bromite/bromite) ⭐ 6,296 | 🐛 88 | 📅 2024-01-24 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-    * `MDY` [Cromite](https://github.com/uazo/cromite) ⭐ 8,100 | 🐛 536 | 🌐 C++ | 📅 2026-08-21 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+  * `MDY` [Bromite](https://github.com/bromite/bromite) ⭐ 6,297 | 🐛 88 | 📅 2024-01-24 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+    * `MDY` [Cromite](https://github.com/uazo/cromite) ⭐ 8,103 | 🐛 536 | 🌐 C++ | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
   * `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MDY` [Helium](https://github.com/jqssun/android-helium-browser) ⭐ 2,134 | 🐛 85 | 🌐 Shell | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MDY` [Thorium](https://github.com/Alex313031/Thorium-Android) ⭐ 773 | 🐛 13 | 📅 2026-08-03 <sup>`FOSS`</sup>
+  * `MDY` [Helium](https://github.com/jqssun/android-helium-browser) ⭐ 2,151 | 🐛 84 | 🌐 Shell | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MDY` [Thorium](https://github.com/Alex313031/Thorium-Android) ⭐ 774 | 🐛 13 | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
   * `MDY` [Mulch](https://divestos.org/pages/our_apps#mulch) <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MD` [Opera](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
   * `MY` [Vivaldi](https://vivaldi.com/source/)
 * **Other**
-  * `MDY` [WebLibre](https://github.com/FaFre/WebLibre) ⭐ 905 | 🐛 77 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MD` [Fulguris](https://github.com/Slion/Fulguris) ⭐ 818 | 🐛 318 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MDY` [WebLibre](https://github.com/FaFre/WebLibre) ⭐ 908 | 🐛 78 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MD` [Fulguris](https://github.com/Slion/Fulguris) ⭐ 818 | 🐛 318 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [FOSS Browser](https://codeberg.org/Gaukler_Faun/FOSS_Browser) <sup>`FOSS`</sup>
   * `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
   * `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`FOSS`</sup>
   * `MDY` [Viola Browser](https://codeberg.org/TipzTeam/viola) <sup>`FOSS`</sup>
 * **Bookmark Managers/Read it later**
-  * `MD` [Omnivore](https://github.com/omnivore-app/omnivore) ⭐ 16,226 | 🐛 349 | 🌐 JavaScript | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MDY` [Linkora](https://github.com/sakethpathike/Linkora) ⭐ 900 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-13 <sup>`FOSS`</sup>
+  * `MD` [Omnivore](https://github.com/omnivore-app/omnivore) ⭐ 16,225 | 🐛 349 | 🌐 JavaScript | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+  * `MDY` [Linkora](https://github.com/sakethpathike/Linkora) ⭐ 901 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-13 <sup>`FOSS`</sup>
   * `MD` [Pinkt for Pinboard](https://github.com/fibelatti/pinboard-kotlin) ⭐ 268 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
-  * `MDY` [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client) ⭐ 220 | 🐛 15 | 🌐 Kotlin | 📅 2026-03-09 <sup>`FOSS`</sup>
+  * `MDY` [Shiori](https://github.com/DesarrolloAntonio/Shiori-Android-Client) ⭐ 220 | 🐛 16 | 🌐 Kotlin | 📅 2026-03-09 <sup>`FOSS`</sup>
   * `MD` [frigoligo](https://github.com/casimir/frigoligo) ⭐ 158 | 🐛 44 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
   * `MDY` [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman)
   * `MDY` [Linkdy](https://play.google.com/store/apps/details?id=com.jgeek00.linkdy)
@@ -1447,8 +1447,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 *Free VPNs are not recommended: [Read](https://www.mozilla.org/en-US/products/vpn/resource-center/risks-of-using-a-free-vpn/)*
 
-* `MDY` [sing-box](https://github.com/SagerNet/sing-box) ⭐ 37,207 | 🐛 284 | 🌐 Go | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MD` [Proton VPN](https://github.com/ProtonVPN/android-app) ⭐ 3,945 | 🐛 80 | 🌐 Kotlin | 📅 2026-08-10 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+* `MDY` [sing-box](https://github.com/SagerNet/sing-box) ⭐ 37,218 | 🐛 284 | 🌐 Go | 📅 2026-08-24 <sup>`FOSS`</sup>
+* `MD` [Proton VPN](https://github.com/ProtonVPN/android-app) ⭐ 3,953 | 🐛 80 | 🌐 Kotlin | 📅 2026-08-10 <sup>`FOSS`</sup> <sup>`🐾`</sup>
 * `MDY` [Clash You](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) ⭐ 140 | 🐛 1 | 🌐 Kotlin | 📅 2024-01-19 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD3E` [Chameleon](https://github.com/Rabkaps/Chameleon) ⭐ 20 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-06 <sup>`FOSS`</sup>
 * `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`FOSS`</sup>
@@ -1468,15 +1468,15 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MDY` [Material Download Manager](https://play.google.com/store/apps/details?id=com.akira.mdm)
   * `MY` [Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm)
 * **YouTube**
-  * `MDY` [Seal](https://github.com/JunkFood02/Seal) ⭐ 28,385 | 🐛 704 | 🌐 Kotlin | 📅 2026-07-25 <sup>`FOSS`</sup>
-  * `MDY` [YTDLnis](https://github.com/deniscerri/ytdlnis) ⭐ 9,752 | 🐛 66 | 🌐 Kotlin | 📅 2026-08-19 <sup>`FOSS`</sup>
-  * `MD3E` [Kite](https://github.com/zenzer0s/Kite) ⭐ 117 | 🐛 2 | 🌐 Dart | 📅 2026-05-12 <sup>`FOSS`</sup>
+  * `MDY` [Seal](https://github.com/JunkFood02/Seal) ⭐ 28,415 | 🐛 706 | 🌐 Kotlin | 📅 2026-07-25 <sup>`FOSS`</sup>
+  * `MDY` [YTDLnis](https://github.com/deniscerri/ytdlnis) ⭐ 9,776 | 🐛 66 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MD3E` [Kite](https://github.com/zenzer0s/Kite) ⭐ 119 | 🐛 2 | 🌐 Dart | 📅 2026-05-12 <sup>`FOSS`</sup>
   * `MDY` [Seal X](https://play.google.com/store/apps/details?id=com.hkapps.sealdownloader)
 * **Music**
-  * `MDY` [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) ⭐ 5,959 | 🐛 99 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
+  * `MDY` [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) ⭐ 5,968 | 🐛 101 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
   * `MDY` [Spowlo](https://github.com/BobbyESP/Spowlo) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * **Torrenting**
-  * `MD3E` [Torrent Search](https://github.com/prajwalch/TorrentSearch) ⭐ 2,071 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MD3E` [Torrent Search](https://github.com/prajwalch/TorrentSearch) ⭐ 2,073 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
   * `MDY` [qBitController](https://github.com/Bartuzen/qBitController) ⭐ 1,276 | 🐛 45 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
   * `MDY` [Tremotesf](https://github.com/equeim/tremotesf-android) ⭐ 322 | 🐛 39 | 🌐 Kotlin | 📅 2026-08-19 <sup>`FOSS`</sup>
   * `MD` [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1485,7 +1485,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MDY` [Flud+](https://play.google.com/store/apps/details?id=com.delphicoder.flud.paid) <sup>`💰`</sup>
   * `MD` [CatTorrent](https://play.google.com/store/apps/details?id=com.piratecats.cattorrent)
 * **Miscellaneous**
-  * `MDY` [Samsung Firmware Downloader](https://github.com/zacharee/SamloaderKotlin) ⭐ 1,556 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-09 <sup>`FOSS`</sup>
+  * `MDY` [Samsung Firmware Downloader](https://github.com/zacharee/SamloaderKotlin) ⭐ 1,556 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1494,8 +1494,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🗺️ Maps/Navigation
 
-* `MD` [Trail Sense](https://github.com/kylecorry31/Trail-Sense) ⭐ 2,812 | 🐛 308 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MD` [CoMaps](https://github.com/comaps/comaps/) ⭐ 502 | 🐛 0 | 🌐 C++ | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MD` [Trail Sense](https://github.com/kylecorry31/Trail-Sense) ⭐ 2,816 | 🐛 308 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MD` [CoMaps](https://github.com/comaps/comaps/) ⭐ 503 | 🐛 0 | 🌐 C++ | 📅 2026-08-24 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MD` [EVMap](https://github.com/ev-map/EVMap) ⭐ 275 | 🐛 50 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
 * `MDY` [BTC Map](https://github.com/teambtcmap/btcmap-android) ⭐ 92 | 🐛 3 | 🌐 Kotlin | 📅 2026-07-14 <sup>`FOSS`</sup>
 * `MDY` [Transport You](https://github.com/you-apps/TransportYou) ⭐ 56 | 🐛 5 | 🌐 Kotlin | 📅 2026-07-18 <sup>`FOSS`</sup>
@@ -1513,10 +1513,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🛰️ Remotes and Smart Devices
 
-* `MD` [CAPod](https://github.com/d4rken-org/capod) ⭐ 1,091 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MD` [Octi](https://github.com/d4rken-org/octi) ⭐ 592 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MD` [CAPod](https://github.com/d4rken-org/capod) ⭐ 1,092 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MD` [Octi](https://github.com/d4rken-org/octi) ⭐ 592 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) ⭐ 486 | 🐛 12 | 🌐 Dart | 📅 2025-11-29 <sup>`FOSS`</sup>
-* `MD3E` [AirSync](https://github.com/sameerasw/airsync-android) ⭐ 273 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MD3E` [AirSync](https://github.com/sameerasw/airsync-android) ⭐ 273 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [DroidHole](https://github.com/JGeek00/droid-hole) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [My Server Status](https://github.com/JGeek00/server-status-android) ⭐ 20 | 🐛 0 | 🌐 Kotlin | 📅 2026-07-08 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD3E` [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos)
@@ -1539,11 +1539,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 ### 🧑‍💻 Text/Code Editors/IDE
 
 * `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) ⭐ 2,231 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide) ⭐ 709 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) ⭐ 2,233 | 🐛 65 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide) ⭐ 711 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
 * `MDY` [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) ⭐ 671 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
 * `MDY` [KtxPy](https://github.com/PsiCodes/KtxPy) ⭐ 106 | 🐛 4 | 🌐 Kotlin | 📅 2025-01-26 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [GhostIdes](https://github.com/HanzoDev1375/GhostIdes) ⭐ 80 | 🐛 0 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [GhostIdes](https://github.com/HanzoDev1375/GhostIdes) ⭐ 83 | 🐛 0 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [CodeFusion](https://play.google.com/store/apps/details?id=com.alif.editor.code)
 * `MDY` [Code Studio](https://play.google.com/store/apps/details?id=com.alif.ide)
 * `MDY` [CxStudio](https://play.google.com/store/apps/details?id=com.alif.ide.cpp)
@@ -1562,9 +1562,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 📄 Document Reader
 
-* `MDY` [Episteme Reader](https://github.com/Aryan-Raj3112/episteme) ⭐ 1,151 | 🐛 140 | 🌐 Kotlin | 📅 2026-08-13 <sup>`FOSS`</sup>
+* `MDY` [Episteme Reader](https://github.com/Aryan-Raj3112/episteme) ⭐ 1,153 | 🐛 140 | 🌐 Kotlin | 📅 2026-08-13 <sup>`FOSS`</sup>
 * `MDY` [Areada](https://github.com/iTsMe-Zen/Areada) ⭐ 117 | 🐛 19 | 🌐 Kotlin | 📅 2026-06-09 <sup>`FOSS`</sup>
-* `MD3E` [Baca.](https://github.com/dyunayuna90-bit/baca.) ⭐ 94 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-21 <sup>`FOSS`</sup>
+* `MD3E` [Baca.](https://github.com/dyunayuna90-bit/baca.) ⭐ 95 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-21 <sup>`FOSS`</sup>
 * `MD3E` [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 * `MD3E` [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
 * `MD3E` [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
@@ -1576,8 +1576,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🧩 Material Catalogs
 
-* `MDY` [Material Components for Android](https://github.com/material-components/material-components-android) ⭐ 17,367 | 🐛 804 | 🌐 Java | 📅 2026-06-22 <sup>`FOSS`</sup>
-* `MDY` [MaterialGallery android](https://github.com/NUmeroAndDev/MaterialGallery-android) ⭐ 146 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-11 <sup>`FOSS`</sup>
+* `MDY` [Material Components for Android](https://github.com/material-components/material-components-android) ⭐ 17,369 | 🐛 804 | 🌐 Java | 📅 2026-06-22 <sup>`FOSS`</sup>
+* `MDY` [MaterialGallery android](https://github.com/NUmeroAndDev/MaterialGallery-android) ⭐ 146 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) ⭐ 84 | 🐛 1 | 🌐 Kotlin | 📅 2022-06-10 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Previewer](https://github.com/Smooth-E/monet-color-previewer) ⭐ 54 | 🐛 0 | 🌐 Java | 📅 2023-06-02 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog)
@@ -1592,10 +1592,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🕹️ Device Automation
 
-* `MDY` [Klick'r](https://github.com/Nain57/Smart-AutoClicker) ⭐ 3,551 | 🐛 30 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
-* `MDY` [Round Sync](https://github.com/newhinton/Round-Sync) ⭐ 2,321 | 🐛 193 | 🌐 Java | 📅 2025-11-16 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MDY` [Klick'r](https://github.com/Nain57/Smart-AutoClicker) ⭐ 3,554 | 🐛 30 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `MDY` [Round Sync](https://github.com/newhinton/Round-Sync) ⭐ 2,323 | 🐛 193 | 🌐 Java | 📅 2025-11-16 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [vFlow](https://github.com/Chaomixian/vFlow) ⭐ 1,230 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MD` [EasySync](https://github.com/phpbg/easysync) ⭐ 230 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-15 <sup>`FOSS`</sup>
+* `MD` [EasySync](https://github.com/phpbg/easysync) ⭐ 231 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-15 <sup>`FOSS`</sup>
 * `MDY` [Syncthing](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [ShortX+](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💰`</sup>
 * `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) <sup>`💰`</sup>
@@ -1606,11 +1606,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🤖 Artificial Intelligence (AI)
 
-* `MDY` [RikkaHub](https://github.com/rikkahub/rikkahub) ⭐ 7,087 | 🐛 285 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MD3E` [LastChat](https://github.com/Cocolalilal/LastChat) ⭐ 333 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MDY` [RikkaHub](https://github.com/rikkahub/rikkahub) ⭐ 7,113 | 🐛 280 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MD3E` [LastChat](https://github.com/Cocolalilal/LastChat) ⭐ 335 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup> <sup>`FORK`</sup>
 * `MDY` [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android) ⭐ 1,256 | 🐛 115 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
-* `MDY` [GPTMobile](https://github.com/Taewan-P/gpt_mobile) ⭐ 1,205 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MDY` [AI Hub](https://github.com/SilentCoderHere/aihub) ⭐ 469 | 🐛 41 | 🌐 Kotlin | 📅 2026-07-21 <sup>`FOSS`</sup>
+* `MDY` [GPTMobile](https://github.com/Taewan-P/gpt_mobile) ⭐ 1,206 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [AI Hub](https://github.com/SilentCoderHere/aihub) ⭐ 469 | 🐛 42 | 🌐 Kotlin | 📅 2026-07-21 <sup>`FOSS`</sup>
 * `MDY` [Lumi AI](https://github.com/iamlooper/Lumi-AI) ⭐ 235 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-17
 * `MDY` [Summary You](https://github.com/talosross/SummaryYou) ⭐ 200 | 🐛 6 | 🌐 Kotlin | 📅 2026-04-17 <sup>`FOSS`</sup>
   * `MD3E` [Summary Expressive](https://github.com/kid1412621/SummaryExpressive) ⭐ 211 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-10 <sup>`FOSS`</sup> <sup>`FORK`</sup>
@@ -1636,25 +1636,25 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MD3E` [Google Health](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile) <sup>`🐾`</sup>
   * `MD3E` [Pixel World](https://play.google.com/store/apps/details?id=com.velviagris.adventure)
 * **Sleep Tracker**
-  * `MD3E` [Caffeine Health](https://github.com/ohuc/CaffeineHealth) ⭐ 120 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+  * `MD3E` [Caffeine Health](https://github.com/ohuc/CaffeineHealth) ⭐ 122 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
   * `MDY` [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep)
 * **Workout Tracker**
-  * `MD` [WGER](https://github.com/wger-project/flutter) ⭐ 962 | 🐛 121 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
-  * `MDY` [Flexify](https://github.com/brandonp2412/Flexify) ⭐ 414 | 🐛 3 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MD` [WGER](https://github.com/wger-project/flutter) ⭐ 962 | 🐛 123 | 🌐 Dart | 📅 2026-08-24 <sup>`FOSS`</sup>
+  * `MDY` [Flexify](https://github.com/brandonp2412/Flexify) ⭐ 415 | 🐛 3 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MD3E` [Kenko](https://github.com/Iamlooker/Kenko) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MD3E` [LibreFit](https://github.com/LibreFitOrg/LibreFit) ⭐ 200 | 🐛 47 | 🌐 Kotlin | 📅 2026-07-27 <sup>`FOSS`</sup>
+  * `MD3E` [LibreFit](https://github.com/LibreFitOrg/LibreFit) ⭐ 202 | 🐛 48 | 🌐 Kotlin | 📅 2026-07-27 <sup>`FOSS`</sup>
   * `MDY` [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer) ⭐ 165 | 🐛 53 | 🌐 Dart | 📅 2025-02-17 <sup>`FOSS`</sup>
   * `MD` [Massive](https://github.com/brandonp2412/Massive) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MD3E` [Trainable](https://github.com/Emanuel5014/Trainable) ⭐ 26 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-12 <sup>`FOSS`</sup>
+  * `MD3E` [Trainable](https://github.com/Emanuel5014/Trainable) ⭐ 25 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-12 <sup>`FOSS`</sup>
   * `MD3E` [hōtter](https://play.google.com/store/apps/details?id=com.hotter.workout) <sup>`💰`</sup>
   * `MDY` [GymRun](https://play.google.com/store/apps/details?id=com.imperon.android.gymapp)
   * `MD` [Gym Day](https://play.google.com/store/apps/details?id=com.anthonyng.workoutapp) <sup>`💰`</sup>
 * **Body Weight**
-  * `MDY` [trale](https://github.com/QuantumPhysique/trale) ⭐ 189 | 🐛 21 | 🌐 Dart | 📅 2026-08-19 <sup>`FOSS`</sup>
+  * `MDY` [trale](https://github.com/QuantumPhysique/trale) ⭐ 190 | 🐛 21 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [FitBook](https://github.com/brandonp2412/FitBook) ⭐ 159 | 🐛 2 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
   * `MD3E` [Weight Tracker](https://github.com/AdityaHebballe/Weight-Tracker) ⭐ 16 | 🐛 1 | 🌐 Kotlin | 📅 2026-06-11 <sup>`FOSS`</sup>
 * **Digital Well-being & Screen Time**
-  * `MD3E` [Zenith](https://github.com/1372Slash/Zenith) ⭐ 414 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-30 <sup>`FOSS`</sup>
+  * `MD3E` [Zenith](https://github.com/1372Slash/Zenith) ⭐ 415 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-30 <sup>`FOSS`</sup>
   * `MD3E` [Blockit](https://play.google.com/store/apps/details?id=com.hypenet.focused) <sup>`💰`</sup>
   * `MD3E` [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)
   * `MDY` [Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc)
@@ -1664,8 +1664,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MDY` [Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter)
   * `MD` [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
 * **Habit Tracker**
-  * `MD` [Habo](https://github.com/xpavle00/Habo) ⭐ 1,483 | 🐛 30 | 🌐 Dart | 📅 2026-06-15 <sup>`FOSS`</sup>
-  * `MDY` [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,458 | 🐛 78 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MD` [Habo](https://github.com/xpavle00/Habo) ⭐ 1,484 | 🐛 30 | 🌐 Dart | 📅 2026-06-15 <sup>`FOSS`</sup>
+  * `MDY` [Table Habit](https://github.com/FriesI23/mhabit) ⭐ 1,457 | 🐛 78 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
   * `MDY` [TimePlanner](https://github.com/v1tzor/TimePlanner) ⭐ 680 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-01 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Routine Tracker](https://github.com/DanielRendox/RoutineTracker) ⭐ 349 | 🐛 5 | 🌐 Kotlin | 📅 2024-09-23 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Habit Builder](https://github.com/ofalvai/HabitBuilder) ⭐ 290 | 🐛 40 | 🌐 Kotlin | 📅 2026-08-03 <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1677,7 +1677,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MDY` [Respawn](https://play.google.com/store/apps/details?id=com.nek12.respawn)
   * `MD` [Terra](https://play.google.com/store/apps/details?id=com.ikramhasan.terra)
 * **Medicine Reminder**
-  * `MDY` [MedTimer](https://github.com/Futsch1/medTimer) ⭐ 590 | 🐛 81 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+  * `MDY` [MedTimer](https://github.com/Futsch1/medTimer) ⭐ 592 | 🐛 83 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
   * `MDY` [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App) ⭐ 126 | 🐛 18 | 🌐 Kotlin | 📅 2026-08-05 <sup>`FOSS`</sup>
   * `MD3E` [Med](https://github.com/FeDeveloper95/Med) ⭐ 103 | 🐛 2 | 🌐 Kotlin | 📅 2026-06-19 <sup>`FOSS`</sup>
   * `MD` [MediTrak](https://github.com/AdamGuidarini/MediTrak) ⭐ 103 | 🐛 11 | 🌐 Java | 📅 2026-08-22 <sup>`FOSS`</sup>
@@ -1685,8 +1685,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MDY` [DosesPro - GLP-1 Tracker](https://play.google.com/store/apps/details?id=com.hseuniversal.dosespro) <sup>`💰`</sup>
 * **Miscellaneous**
   * `MDY` [Noice](https://github.com/trynoice/android-app) ⭐ 1,029 | 🐛 39 | 🌐 Kotlin | 📅 2024-08-04 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MDY` [Mindful](https://github.com/akaMrNagar/Mindful/) ⭐ 789 | 🐛 94 | 🌐 Dart | 📅 2025-08-27 <sup>`FOSS`</sup>
-  * `MDY` [FoodYou](https://github.com/maksimowiczm/FoodYou) ⭐ 574 | 🐛 100 | 🌐 Kotlin | 📅 2026-06-27 <sup>`FOSS`</sup>
+  * `MDY` [Mindful](https://github.com/akaMrNagar/Mindful/) ⭐ 790 | 🐛 94 | 🌐 Dart | 📅 2025-08-27 <sup>`FOSS`</sup>
+  * `MDY` [FoodYou](https://github.com/maksimowiczm/FoodYou) ⭐ 575 | 🐛 100 | 🌐 Kotlin | 📅 2026-06-27 <sup>`FOSS`</sup>
   * `MDY` [CoffeeGram](https://github.com/phansier/Coffeegram) ⭐ 534 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-14 <sup>`FOSS`</sup>
   * `MD` [Forest](https://github.com/bk20dev/forest) ⭐ 266 | 🐛 12 | 🌐 Kotlin | 📅 2025-09-29 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Quitter](https://github.com/brandonp2412/Quitter) ⭐ 179 | 🐛 0 | 🌐 Dart | 📅 2026-08-20 <sup>`FOSS`</sup>
@@ -1707,12 +1707,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🛒 Shopping & Household
 
-* `MDY` [Grocy](https://github.com/patzly/grocy-android) ⭐ 1,183 | 🐛 161 | 🌐 Java | 📅 2026-08-04 <sup>`FOSS`</sup>
+* `MDY` [Grocy](https://github.com/patzly/grocy-android) ⭐ 1,184 | 🐛 162 | 🌐 Java | 📅 2026-08-04 <sup>`FOSS`</sup>
 * `MD3E` [Algidy](https://github.com/NhuHuy-79/Algidy) ⭐ 22 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
 * `MD` [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile)
 * **Recipes**
-  * `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) ⭐ 3,638 | 🐛 336 | 🌐 Dart | 📅 2026-07-26 <sup>`FOSS`</sup>
-  * `MDY` [kitshn](https://github.com/aimok04/kitshn) ⭐ 719 | 🐛 81 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
+  * `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) ⭐ 3,639 | 🐛 338 | 🌐 Dart | 📅 2026-07-26 <sup>`FOSS`</sup>
+  * `MDY` [kitshn](https://github.com/aimok04/kitshn) ⭐ 720 | 🐛 82 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
   * `MDY` [Mealient](https://github.com/kirmanak/Mealient) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MD` [reciper](https://github.com/judemont/reciper) ⭐ 72 | 🐛 6 | 🌐 Dart | 📅 2025-08-16 <sup>`FOSS`</sup>
   * `MDY` [Hungry Recipes](https://play.google.com/store/apps/details?id=luddosaurus.nom.hungry)
@@ -1727,14 +1727,14 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MD3E` [Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
   * `MD` [Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user)
 * **Expense Managers**
-  * `MDY` [Buckwheat](https://github.com/danilkinkin/buckwheat) ⭐ 829 | 🐛 48 | 🌐 Kotlin | 📅 2025-08-24 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MDY` [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) ⭐ 780 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-15 <sup>`FOSS`</sup>
-  * `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) ⭐ 699 | 🐛 36 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MD3E` [Pennywise AI](https://github.com/sarim2000/pennywiseai-tracker) ⭐ 542 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MDY` [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker) ⭐ 392 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-13 <sup>`FOSS`</sup>
-  * `MDY` [Monekin](https://github.com/enrique-lozano/Monekin) ⭐ 249 | 🐛 25 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
-  * `MD3E` [Minus](https://github.com/isaacsa51/Minus) ⭐ 223 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-  * `MD3E` [Cashiro](https://github.com/ritesh-kanwar/Cashiro) ⭐ 167 | 🐛 76 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup>
+  * `MDY` [Buckwheat](https://github.com/danilkinkin/buckwheat) ⭐ 828 | 🐛 48 | 🌐 Kotlin | 📅 2025-08-24 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+  * `MDY` [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) ⭐ 782 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-15 <sup>`FOSS`</sup>
+  * `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) ⭐ 700 | 🐛 36 | 🌐 Dart | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MD3E` [Pennywise AI](https://github.com/sarim2000/pennywiseai-tracker) ⭐ 542 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MDY` [Recurring Expense Tracker](https://github.com/DennisBauer/RecurringExpenseTracker) ⭐ 393 | 🐛 25 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MDY` [Monekin](https://github.com/enrique-lozano/Monekin) ⭐ 248 | 🐛 25 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MD3E` [Minus](https://github.com/isaacsa51/Minus) ⭐ 224 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+  * `MD3E` [Cashiro](https://github.com/ritesh-kanwar/Cashiro) ⭐ 169 | 🐛 76 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup>
   * `MDY` [Allowance](https://github.com/jameskokoska/Allowance) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MD` [Expensy](https://github.com/mina-android/Expensy) ⭐ 53 | 🐛 2 | 🌐 Dart | 📅 2026-08-10 <sup>`FOSS`</sup>
   * `MDY` [Prepaid Balance](https://github.com/mueller-ma/PrepaidBalance) ⭐ 45 | 🐛 1 | 🌐 Kotlin | 📅 2026-04-03 <sup>`FOSS`</sup>
@@ -1757,9 +1757,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MDY` [ACrypto](https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto)
   * `MDY` [Trust Wallet](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
 * **Miscellaneous**
-  * `MDY` [Catima](https://github.com/CatimaLoyalty/Android) ⭐ 1,670 | 🐛 171 | 🌐 Java | 📅 2026-08-21 <sup>`FOSS`</sup>
+  * `MDY` [Catima](https://github.com/CatimaLoyalty/Android) ⭐ 1,676 | 🐛 171 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup>
     * `MDY` [zCard (fork)](https://github.com/ziadOUA/zCard) ⚠️ Archived <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🪦`</sup>
-  * `MDY` [FossWallet](https://github.com/SeineEloquenz/fosswallet) ⭐ 413 | 🐛 34 | 🌐 Kotlin | 📅 2026-08-19 <sup>`FOSS`</sup>
+  * `MDY` [FossWallet](https://github.com/SeineEloquenz/fosswallet) ⭐ 416 | 🐛 35 | 🌐 Kotlin | 📅 2026-08-19 <sup>`FOSS`</sup>
   * `MDY` [DueDate](https://github.com/MateYou-Apps/DueDate) ⭐ 11 | 🐛 0 | 🌐 Kotlin | 📅 2026-04-12 <sup>`FOSS`</sup>
   * `MD3E` [Gumroad Stats](https://github.com/sameerasw/GumroadStats) ⭐ 8 | 🐛 0 | 🌐 Kotlin | 📅 2026-03-11 <sup>`FOSS`</sup>
   * `MDY` [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
@@ -1771,16 +1771,16 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🌦️ Weather
 
-* `MDY` [Breezy Weather](https://github.com/breezy-weather/breezy-weather) ⭐ 11,083 | 🐛 122 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [WeatherMaster](https://github.com/PranshulGG/WeatherMaster) ⭐ 3,047 | 🐛 81 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) ⭐ 2,520 | 🐛 297 | 🌐 Java | 📅 2026-08-20 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MDY` [Breezy Weather](https://github.com/breezy-weather/breezy-weather) ⭐ 11,097 | 🐛 121 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [WeatherMaster](https://github.com/PranshulGG/WeatherMaster) ⭐ 3,048 | 🐛 77 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) ⭐ 2,521 | 🐛 297 | 🌐 Java | 📅 2026-08-20 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD` [Rain](https://github.com/DarkMooNight/Rain) ⭐ 1,058 | 🐛 45 | 🌐 Dart | 📅 2026-08-03 <sup>`FOSS`</sup>
-* `MDY` [Overmorrow](https://github.com/bmaroti9/Overmorrow) ⭐ 790 | 🐛 37 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Overmorrow](https://github.com/bmaroti9/Overmorrow) ⭐ 792 | 🐛 37 | 🌐 Dart | 📅 2026-08-21 <sup>`FOSS`</sup>
 * `MDY` [Prognoza](https://github.com/davidtakac/prognoza) ⭐ 416 | 🐛 30 | 🌐 Kotlin | 📅 2023-07-14 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [Bura](https://github.com/davidtakac/bura) ⭐ 380 | 🐛 31 | 🌐 Kotlin | 📅 2026-05-24 <sup>`FOSS`</sup>
+* `MDY` [Bura](https://github.com/davidtakac/bura) ⭐ 381 | 🐛 31 | 🌐 Kotlin | 📅 2026-05-24 <sup>`FOSS`</sup>
 * `MDY` [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases) ⭐ 188 | 🐛 2 | 📅 2026-05-02
-* `MDY` [JustWeather](https://github.com/jjewuz/JustWeather) ⭐ 40 | 🐛 3 | 🌐 Kotlin | 📅 2025-03-09 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [GeoWeather](https://github.com/FreetimeMaker/GeoWeather) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+* `MDY` [JustWeather](https://github.com/jjewuz/JustWeather) ⭐ 41 | 🐛 3 | 🌐 Kotlin | 📅 2025-03-09 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MDY` [GeoWeather](https://github.com/FreetimeMaker/GeoWeather) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MD3E` [Gradient Weather](https://play.google.com/store/apps/details?id=com.subtlesignals.gradientweather)
 * `MD3E` [Weather](https://play.google.com/store/apps/details?id=com.google.android.apps.weather)
 * `MD3E` [Weather You](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou)
@@ -1803,9 +1803,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🎮 Games
 
-* `MDY` [Lichess beta](https://github.com/lichess-org/mobile) ⭐ 2,502 | 🐛 463 | 🌐 Dart | 📅 2026-08-23 <sup>`FOSS`</sup>
-* `MDY` [Antimine](https://github.com/lucasnlm/antimine-android) ⭐ 785 | 🐛 63 | 🌐 Kotlin | 📅 2025-08-02 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku) ⭐ 717 | 🐛 77 | 🌐 Kotlin | 📅 2026-03-14 <sup>`FOSS`</sup>
+* `MDY` [Lichess beta](https://github.com/lichess-org/mobile) ⭐ 2,503 | 🐛 466 | 🌐 Dart | 📅 2026-08-24 <sup>`FOSS`</sup>
+* `MDY` [Antimine](https://github.com/lucasnlm/antimine-android) ⭐ 786 | 🐛 63 | 🌐 Kotlin | 📅 2025-08-02 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MDY` [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku) ⭐ 718 | 🐛 77 | 🌐 Kotlin | 📅 2026-03-14 <sup>`FOSS`</sup>
 * `MDY` [Gauguin](https://github.com/meikpiep/gauguin) ⭐ 210 | 🐛 25 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
 * `MDY` [Dooz](https://github.com/yamin8000/Dooz) ⭐ 106 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
 * `MDY` [TriPeaks NEUE](https://github.com/mimoguz/tripeaks_neue) ⭐ 37 | 🐛 4 | 🌐 Dart | 📅 2026-08-16 <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1822,9 +1822,9 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 📟 Emulators
 
-* `MDY` [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) ⭐ 15,425 | 🐛 458 | 🌐 C++ | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [Lime3DS](https://github.com/Lime3DS/Lime3DS) ⭐ 7,940 | 🐛 393 | 🌐 C++ | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [Lemuroid](https://github.com/Swordfish90/Lemuroid) ⭐ 4,213 | 🐛 588 | 🌐 Kotlin | 📅 2026-08-12 <sup>`FOSS`</sup>
+* `MDY` [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) ⭐ 15,430 | 🐛 457 | 🌐 C++ | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [Lime3DS](https://github.com/Lime3DS/Lime3DS) ⭐ 7,946 | 🐛 385 | 🌐 C++ | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [Lemuroid](https://github.com/Swordfish90/Lemuroid) ⭐ 4,216 | 🐛 589 | 🌐 Kotlin | 📅 2026-08-12 <sup>`FOSS`</sup>
 * `MDY` [Rekado](https://github.com/MenosGrante/Rekado) ⭐ 1,314 | 🐛 6 | 🌐 Kotlin | 📅 2025-12-17 <sup>`FOSS`</sup>
 * `MDY` [Better xCloud](https://github.com/redphx/better-xcloud-android) ⭐ 459 | 🐛 22 | 📅 2025-10-24
 * `MDY` [Joiplay](https://joiplay.net/)
@@ -1851,12 +1851,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🪪 2FA
 
-* `MDY` [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) ⭐ 12,948 | 🐛 115 | 🌐 Java | 📅 2026-07-16 <sup>`FOSS`</sup>
-* `MDY` [Stratum](https://github.com/stratumauth/app) ⭐ 4,553 | 🐛 80 | 🌐 C# | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MD` [2FAS for Android](https://github.com/twofas/2fas-android) ⭐ 1,495 | 🐛 124 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MDY` [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) ⭐ 12,956 | 🐛 115 | 🌐 Java | 📅 2026-07-16 <sup>`FOSS`</sup>
+* `MDY` [Stratum](https://github.com/stratumauth/app) ⭐ 4,556 | 🐛 80 | 🌐 C# | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MD` [2FAS for Android](https://github.com/twofas/2fas-android) ⭐ 1,496 | 🐛 124 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MD` [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) ⭐ 1,366 | 🐛 107 | 🌐 Dart | 📅 2026-08-17 <sup>`FOSS`</sup>
-* `MDY` [Mauth](https://github.com/X1nto/Mauth) ⭐ 474 | 🐛 15 | 🌐 Kotlin | 📅 2026-07-22 <sup>`FOSS`</sup>
-* `MD3E` [Tokn](https://github.com/tokn-authenticator/tokn) ⭐ 74 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
+* `MDY` [Mauth](https://github.com/X1nto/Mauth) ⭐ 475 | 🐛 19 | 🌐 Kotlin | 📅 2026-07-22 <sup>`FOSS`</sup>
+* `MD3E` [Tokn](https://github.com/tokn-authenticator/tokn) ⭐ 74 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Keyring OTP](https://gitlab.com/aorszulak/keyring) <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD` [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) <sup>`FOSS`</sup>
 
@@ -1866,8 +1866,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🔑 Password Manager
 
-* `MDY` [KeePassDX](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,159 | 🐛 555 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`💰 Dynamic color theme is a paid feature.`</sup>
-* `MD3E` [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app) ⭐ 3,195 | 🐛 184 | 🌐 Kotlin | 📅 2026-08-22 <sup>`🐾`</sup>
+* `MDY` [KeePassDX](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,169 | 🐛 556 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`💰 Dynamic color theme is a paid feature.`</sup>
+* `MD3E` [Keyguard for Bitwarden](https://github.com/AChep/keyguard-app) ⭐ 3,196 | 🐛 182 | 🌐 Kotlin | 📅 2026-08-23 <sup>`🐾`</sup>
 * `MDY` [KeyPass](https://github.com/yogeshpaliyal/KeyPass) ⭐ 780 | 🐛 31 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup>
 * `MD` [NewPass](https://github.com/6eero/NewPass) ⭐ 262 | 🐛 11 | 🌐 Java | 📅 2024-08-16 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD` [KeySpace](https://github.com/Keyspace-cloud/android) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
@@ -1879,7 +1879,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 * `MDY` [MasterKey](https://github.com/PSHTeam/masterkey_core) ⭐ 54 | 🐛 1 | 🌐 Dart | 📅 2025-09-26 <sup>`FOSS`</sup> <sup>`💰`</sup>
 * `MDY` [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden) <sup>`FOSS`</sup>
 * **Password Generator**
-  * `MDY` [IYPS](https://github.com/StellarSand/IYPS) ⭐ 276 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+  * `MDY` [IYPS](https://github.com/StellarSand/IYPS) ⭐ 277 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
   * `MD` [Wassword](https://github.com/polilluminato/wassword-flutter) ⭐ 94 | 🐛 15 | 🌐 Dart | 📅 2026-07-09 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Pazzword](https://github.com/cyb3rko/pazzword) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MD` [KuPass](https://github.com/achmaddaniel24/kupass) ⭐ 6 | 🐛 0 | 🌐 Kotlin | 📅 2026-06-27 <sup>`FOSS`</sup>
@@ -1891,11 +1891,11 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🧱 Firewall/Ad-blocker
 
-* `MDY` [Blocker](https://github.com/lihenggui/blocker) ⭐ 2,371 | 🐛 51 | 🌐 Kotlin | 📅 2026-08-03 <sup>`FOSS`</sup>
-* `MDY` [AdClose](https://github.com/zjyzip/AdClose) ⭐ 985 | 🐛 1 | 🌐 C | 📅 2026-08-20 <sup>`FOSS`</sup>
-* `MDY` [DNSNet](https://github.com/t895/DNSNet) ⭐ 915 | 🐛 31 | 🌐 Kotlin | 📅 2026-08-15 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-* `MDY` [Athena](https://github.com/Kin69/Athena) ⭐ 690 | 🐛 43 | 🌐 Kotlin | 📅 2026-01-26 <sup>`FOSS`</sup>
-* `MD3E` [ADNS](https://github.com/eyalm2000/adns) ⭐ 550 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+* `MDY` [Blocker](https://github.com/lihenggui/blocker) ⭐ 2,370 | 🐛 51 | 🌐 Kotlin | 📅 2026-08-03 <sup>`FOSS`</sup>
+* `MDY` [AdClose](https://github.com/zjyzip/AdClose) ⭐ 986 | 🐛 1 | 🌐 C | 📅 2026-08-20 <sup>`FOSS`</sup>
+* `MDY` [DNSNet](https://github.com/t895/DNSNet) ⭐ 918 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MDY` [Athena](https://github.com/Kin69/Athena) ⭐ 692 | 🐛 43 | 🌐 Kotlin | 📅 2026-01-26 <sup>`FOSS`</sup>
+* `MD3E` [ADNS](https://github.com/eyalm2000/adns) ⭐ 557 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`🐾`</sup>
 * `MD` [AdGuard](https://adguard.com/en/adguard-android/overview.html)
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
@@ -1904,7 +1904,7 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🗳️ File/App Encryption
 
-* `MDY` [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider) ⭐ 3,206 | 🐛 61 | 🌐 Java | 📅 2026-08-11 <sup>`FOSS`</sup>
+* `MDY` [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider) ⭐ 3,207 | 🐛 61 | 🌐 Java | 📅 2026-08-11 <sup>`FOSS`</sup>
 * `MDY` [Calculator Hide Files](https://github.com/Binondi/Calculator-Hide-Files) ⭐ 180 | 🐛 5 | 🌐 Kotlin | 📅 2026-05-09 <sup>`FOSS`</sup>
 * `MDY` [AstraCrypt](https://github.com/gromif/AstraCrypt) ⭐ 156 | 🐛 11 | 🌐 Kotlin | 📅 2025-09-29 <sup>`FOSS`</sup>
 * `MDY` [Pdf Unlocker](https://github.com/OpenAppex/pdfunlocker) ⭐ 31 | 🐛 0 | 🌐 Kotlin | 📅 2026-06-29 <sup>`FOSS`</sup>
@@ -1917,10 +1917,10 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### ⛓️‍💥 Link Cleaners
 
-* `MDY` [LinkSheet](https://github.com/1fexd/LinkSheet) ⭐ 2,065 | 🐛 82 | 🌐 Kotlin | 📅 2026-08-07 <sup>`FOSS`</sup> <sup>`🐾`</sup>
-* `MY` [URLCheck](https://github.com/TrianguloY/UrlChecker) ⭐ 2,017 | 🐛 123 | 🌐 Java | 📅 2026-08-13 <sup>`FOSS`</sup>
+* `MDY` [LinkSheet](https://github.com/1fexd/LinkSheet) ⭐ 2,070 | 🐛 82 | 🌐 Kotlin | 📅 2026-08-07 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+* `MY` [URLCheck](https://github.com/TrianguloY/UrlChecker) ⭐ 2,019 | 🐛 123 | 🌐 Java | 📅 2026-08-13 <sup>`FOSS`</sup>
 * `MDY` [Tarnhelm](https://github.com/lz233/Tarnhelm) ⭐ 783 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-13 <sup>`FOSS`</sup> <sup>`🐾`</sup>
-* `MDY` [Untracker](https://github.com/zhanghai/Untracker) ⭐ 618 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+* `MDY` [Untracker](https://github.com/zhanghai/Untracker) ⭐ 619 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
 
 <sub>[📜Table Of Contents](#-table-of-contents)</sub>
 
@@ -1934,12 +1934,12 @@ This list is solely a compilation of apps that adopt the Material You design gui
   * `MD` [Permission Pilot](https://github.com/d4rken-org/permission-pilot) ⭐ 662 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-18 <sup>`FOSS`</sup>
   * `MDY` [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) <sup>`FOSS`</sup>
 * **Uncategorized**
-  * `MDY` [Basic Call Recorder](https://github.com/chenxiaolong/BCR) ⭐ 2,878 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
-  * `MDY` [AirGuard](https://github.com/seemoo-lab/AirGuard) ⭐ 2,456 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+  * `MDY` [Basic Call Recorder](https://github.com/chenxiaolong/BCR) ⭐ 2,879 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+  * `MDY` [AirGuard](https://github.com/seemoo-lab/AirGuard) ⭐ 2,459 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
   * `MD` [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) ⭐ 1,028 | 🐛 37 | 🌐 Kotlin | 📅 2025-11-20 <sup>`FOSS`</sup> <sup>`🪦`</sup>
   * `MDY` [Android Faker](https://github.com/Android1500/AndroidFaker) ⭐ 722 | 🐛 41 | 📅 2026-05-22 <sup>`🪦`</sup>
   * `MDY` [MemoryGuardian](https://github.com/hashemi-hossein/memory-guardian) ⭐ 191 | 🐛 14 | 🌐 Kotlin | 📅 2024-11-16 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) ⭐ 99 | 🐛 2 | 📅 2026-05-03
+  * `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) ⭐ 101 | 🐛 2 | 📅 2026-05-03
   * `MDY` [Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
   * `MDY` [Storage Isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage)
 
@@ -1949,66 +1949,66 @@ This list is solely a compilation of apps that adopt the Material You design gui
 
 ### 🔧 Uncategorized Tools
 
-* `MD` [PlainApp](https://github.com/ismartcoding/plain-app) ⭐ 6,561 | 🐛 63 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MD` [Nextcloud](https://github.com/nextcloud/android) ⭐ 5,522 | 🐛 1,550 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [MicroG RE](https://github.com/WSTxda/MicroG-RE) ⭐ 4,617 | 🐛 32 | 🌐 Java | 📅 2026-08-23 <sup>`FOSS`</sup>
-* `MDY` [EtchDroid](https://github.com/etchdroid/etchdroid) ⭐ 3,441 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
+* `MD` [PlainApp](https://github.com/ismartcoding/plain-app) ⭐ 6,565 | 🐛 63 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MD` [Nextcloud](https://github.com/nextcloud/android) ⭐ 5,523 | 🐛 1,553 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [MicroG RE](https://github.com/WSTxda/MicroG-RE) ⭐ 4,624 | 🐛 32 | 🌐 Java | 📅 2026-08-24 <sup>`FOSS`</sup>
+* `MDY` [EtchDroid](https://github.com/etchdroid/etchdroid) ⭐ 3,447 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
 * `MD` [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia) ⭐ 3,010 | 🐛 40 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MDY` [Pixel VoLTE Patch](https://github.com/kyujin-cho/pixel-volte-patch) ⭐ 2,987 | 🐛 95 | 🌐 Kotlin | 📅 2026-02-07 <sup>`FOSS`</sup>
-* `MD3E` [Essentials](https://github.com/sameerasw/essentials) ⭐ 2,662 | 🐛 86 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`🐾`</sup>
+* `MDY` [Pixel VoLTE Patch](https://github.com/kyujin-cho/pixel-volte-patch) ⭐ 2,989 | 🐛 95 | 🌐 Kotlin | 📅 2026-02-07 <sup>`FOSS`</sup>
+* `MD3E` [Essentials](https://github.com/sameerasw/essentials) ⭐ 2,669 | 🐛 90 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`🐾`</sup>
 * `MDY` [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) ⭐ 2,486 | 🐛 10 | 🌐 Kotlin | 📅 2024-09-07 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) ⭐ 2,263 | 🐛 128 | 🌐 Kotlin | 📅 2024-03-13 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MDY` [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) ⭐ 2,266 | 🐛 128 | 🌐 Kotlin | 📅 2024-03-13 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [InstallerX](https://github.com/iamr0s/InstallerX) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-  * `MD3E` [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ⭐ 6,246 | 🐛 16 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
-* `MD` [Paperless Mobile](https://github.com/astubenbord/paperless-mobile) ⭐ 1,445 | 🐛 114 | 🌐 Dart | 📅 2026-06-01 <sup>`FOSS`</sup>
-* `MDY` [Universal Installer](https://github.com/pass-with-high-score/universal-installer) ⭐ 1,287 | 🐛 23 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+  * `MD3E` [InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ⭐ 6,258 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup> <sup>`FORK`</sup> <sup>`🐾`</sup>
+* `MD` [Paperless Mobile](https://github.com/astubenbord/paperless-mobile) ⭐ 1,446 | 🐛 114 | 🌐 Dart | 📅 2026-06-01 <sup>`FOSS`</sup>
+* `MDY` [Universal Installer](https://github.com/pass-with-high-score/universal-installer) ⭐ 1,289 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [SongSync](https://github.com/Lambada10/SongSync) ⭐ 1,281 | 🐛 71 | 🌐 Kotlin | 📅 2026-06-02 <sup>`FOSS`</sup>
-* `MDY` [Android Easter Egg](https://github.com/hushenghao/AndroidEasterEggs) ⭐ 1,269 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [Android Easter Egg](https://github.com/hushenghao/AndroidEasterEggs) ⭐ 1,269 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Kizzy](https://github.com/dead8309/Kizzy) ⭐ 1,221 | 🐛 27 | 🌐 Kotlin | 📅 2026-05-30 <sup>`FOSS`</sup>
 * `MDY` [GAppsMod](https://github.com/jacopotediosi/GAppsMod) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [AppVerifier](https://github.com/soupslurpr/AppVerifier) ⭐ 1,152 | 🐛 30 | 🌐 Kotlin | 📅 2025-08-29 <sup>`FOSS`</sup>
-* `MDY` [Geto](https://github.com/JackEblan/Geto) ⭐ 1,134 | 🐛 22 | 🌐 Kotlin | 📅 2026-07-29 <sup>`FOSS`</sup>
-* `MDY` [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) ⭐ 1,024 | 🐛 12 | 🌐 Kotlin | 📅 2026-07-29 <sup>`FOSS`</sup>
+* `MDY` [AppVerifier](https://github.com/soupslurpr/AppVerifier) ⭐ 1,155 | 🐛 30 | 🌐 Kotlin | 📅 2025-08-29 <sup>`FOSS`</sup>
+* `MDY` [Geto](https://github.com/JackEblan/Geto) ⭐ 1,139 | 🐛 22 | 🌐 Kotlin | 📅 2026-07-29 <sup>`FOSS`</sup>
+* `MDY` [Private DNS Quick Toggle](https://github.com/karasevm/PrivateDNSAndroid) ⭐ 1,025 | 🐛 13 | 🌐 Kotlin | 📅 2026-07-29 <sup>`FOSS`</sup>
 * `MDY` [GMS Flags](https://github.com/polodarb/GMS-Flags) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [DioHub](https://github.com/namanshergill/diohub) ⭐ 962 | 🐛 81 | 🌐 Dart | 📅 2026-07-12 <sup>`FOSS`</sup>
-* `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) ⭐ 939 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
+* `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) ⭐ 942 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-20 <sup>`FOSS`</sup>
 * `MDY` [OTP Helper](https://github.com/jd1378/otphelper) ⭐ 901 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-14 <sup>`FOSS`</sup>
 * `MDY` [Gloom - GitHub](https://github.com/MateriiApps/Gloom) ⭐ 790 | 🐛 11 | 🌐 Kotlin | 📅 2026-06-13 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MD3E` [WikiReader](https://github.com/nsh07/WikiReader) ⭐ 784 | 🐛 50 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
 * `MDY` [Mi FreeForm](https://github.com/sunshine0523/Mi-Freeform) ⭐ 783 | 🐛 39 | 🌐 Kotlin | 📅 2024-03-25 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MD3E` [WikiReader](https://github.com/nsh07/WikiReader) ⭐ 782 | 🐛 50 | 🌐 Kotlin | 📅 2026-08-16 <sup>`FOSS`</sup>
 * `MDY` [Classic Power Menu](https://github.com/KieronQuinn/ClassicPowerMenu) ⭐ 780 | 🐛 8 | 🌐 Kotlin | 📅 2026-04-12 <sup>`FOSS`</sup>
-* `MDY` [Language Selector](https://github.com/VegaBobo/Language-Selector) ⭐ 760 | 🐛 8 | 🌐 Kotlin | 📅 2024-12-29 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MDY` [PI](https://github.com/SanmerApps/PI) ⭐ 693 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
-* `MD` [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) ⭐ 680 | 🐛 28 | 🌐 Kotlin | 📅 2024-02-10 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MDY` [Language Selector](https://github.com/VegaBobo/Language-Selector) ⭐ 762 | 🐛 8 | 🌐 Kotlin | 📅 2024-12-29 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MDY` [PI](https://github.com/SanmerApps/PI) ⭐ 693 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MD` [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) ⭐ 681 | 🐛 28 | 🌐 Kotlin | 📅 2024-02-10 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [openHAB](https://github.com/openhab/openhab-android) ⭐ 648 | 🐛 120 | 🌐 Kotlin | 📅 2026-07-31 <sup>`FOSS`</sup>
 * `MDY` [Redomi](https://github.com/acszo/Redomi) ⭐ 600 | 🐛 13 | 🌐 Kotlin | 📅 2026-07-04 <sup>`FOSS`</sup>
-* `MDY` [SetEdit](https://github.com/MuntashirAkon/SetEdit) ⭐ 577 | 🐛 14 | 🌐 Java | 📅 2025-07-21 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MDY` [SetEdit](https://github.com/MuntashirAkon/SetEdit) ⭐ 578 | 🐛 14 | 🌐 Java | 📅 2025-07-21 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Coffee](https://github.com/mueller-ma/Coffee) ⭐ 499 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-09 <sup>`FOSS`</sup>
-* `MDY` [Tack](https://github.com/patzly/tack-android) ⭐ 476 | 🐛 31 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup>
-* `MD` [NeoStumbler](https://github.com/mjaakko/NeoStumbler) ⭐ 473 | 🐛 58 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
-* `MDY` [XtMapper](https://github.com/Xtr126/XtMapper) ⭐ 430 | 🐛 35 | 🌐 Java | 📅 2026-07-18 <sup>`FOSS`</sup>
+* `MDY` [Tack](https://github.com/patzly/tack-android) ⭐ 478 | 🐛 31 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MD` [NeoStumbler](https://github.com/mjaakko/NeoStumbler) ⭐ 473 | 🐛 59 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
+* `MDY` [XtMapper](https://github.com/Xtr126/XtMapper) ⭐ 431 | 🐛 35 | 🌐 Java | 📅 2026-07-18 <sup>`FOSS`</sup>
 * `MD3E` [LabNex](https://github.com/labnex/LabNex) ⚠️ Archived <sup>`FOSS`</sup>
-* `MD` [Android Auto XLauncher](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) ⭐ 309 | 🐛 3 | 🌐 Kotlin | 📅 2026-04-04 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MD` [Android Auto XLauncher](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) ⭐ 310 | 🐛 3 | 🌐 Kotlin | 📅 2026-04-04 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Tuner](https://github.com/thetwom/Tuner) ⭐ 297 | 🐛 30 | 🌐 Kotlin | 📅 2025-07-20 <sup>`FOSS`</sup>
 * `MD3E` [Omni](https://github.com/AkaneFoundation/Omni) ⭐ 291 | 🐛 14 | 🌐 Kotlin | 📅 2025-10-04 <sup>`FOSS`</sup>
-* `MDY` [Punch-hole Download Progress](https://github.com/hxreborn/punch-hole-download-progress) ⭐ 229 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
+* `MDY` [Punch-hole Download Progress](https://github.com/hxreborn/punch-hole-download-progress) ⭐ 231 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22 <sup>`FOSS`</sup>
 * `MDY` [Locus](https://github.com/Myzel394/locus) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD` [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) ⭐ 214 | 🐛 25 | 🌐 Dart | 📅 2024-07-26 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Metronome](https://github.com/Kr0oked/Metronome) ⭐ 213 | 🐛 16 | 🌐 Kotlin | 📅 2026-08-02 <sup>`FOSS`</sup>
 * `MD3E` [Randomix](https://github.com/m-i-n-a-r/randomix) ⭐ 209 | 🐛 4 | 🌐 Kotlin | 📅 2026-05-25 <sup>`FOSS`</sup>
 * `MDY` [Mastodon/Lemmy Redirect](https://github.com/zacharee/MastodonRedirect) ⭐ 198 | 🐛 8 | 🌐 Kotlin | 📅 2026-07-10 <sup>`FOSS`</sup>
-* `MD` [Filester](https://github.com/roozbehzarei/filester) ⭐ 185 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-21 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MD` [Filester](https://github.com/roozbehzarei/filester) ⭐ 186 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [ReLabs - XDA Developers](https://github.com/theimpulson/ReLabs) ⚠️ Archived <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MD` [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) ⭐ 163 | 🐛 21 | 🌐 Kotlin | 📅 2026-08-04 <sup>`FOSS`</sup>
 * `MDY` [MusicSearch](https://github.com/lydavid/MusicSearch) ⭐ 151 | 🐛 103 | 🌐 Kotlin | 📅 2026-08-23 <sup>`FOSS`</sup>
-* `MDY` [Network Scanner](https://github.com/usamaiqb/network-scanner) ⭐ 149 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
+* `MDY` [Network Scanner](https://github.com/usamaiqb/network-scanner) ⭐ 150 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-17 <sup>`FOSS`</sup>
 * `MDY` [Jetisteam](https://github.com/iTaysonLab/jetisteam) ⭐ 125 | 🐛 1 | 🌐 Kotlin | 📅 2026-04-06 <sup>`FOSS`</sup>
 * `MY` [JsonList](https://github.com/SlaVcE14/JsonList) ⭐ 107 | 🐛 6 | 🌐 Java | 📅 2026-08-09 <sup>`FOSS`</sup>
 * `MDY` [Remote Numpad](https://github.com/theolizard/remote-numpad) ⭐ 106 | 🐛 3 | 🌐 Kotlin | 📅 2026-07-27 <sup>`FOSS`</sup>
-* `MD3E` [Gitling](https://github.com/maneeshacooray/Gitling) ⭐ 87 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-08 <sup>`FOSS`</sup> <sup>`FORK`</sup>
-* `MY` [Bhagavad Gita](https://github.com/WirelessAlien/BhagavadGitaApp) ⭐ 85 | 🐛 4 | 🌐 Kotlin | 📅 2025-06-25 <sup>`FOSS`</sup> <sup>`🪦`</sup>
+* `MD3E` [Gitling](https://github.com/maneeshacooray/Gitling) ⭐ 88 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-08 <sup>`FOSS`</sup> <sup>`FORK`</sup>
+* `MY` [Bhagavad Gita](https://github.com/WirelessAlien/BhagavadGitaApp) ⭐ 86 | 🐛 4 | 🌐 Kotlin | 📅 2025-06-25 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MY` [Checker](https://github.com/AkaneTan/Checker) ⭐ 84 | 🐛 0 | 🌐 Kotlin | 📅 2024-01-18 <sup>`FOSS`</sup> <sup>`🪦`</sup>
-* `MD3E` [Bubble Notice](https://github.com/GraceThings/bubble-notice-android) ⭐ 82 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-14 <sup>`FOSS`</sup>
+* `MD3E` [Bubble Notice](https://github.com/GraceThings/bubble-notice-android) ⭐ 83 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-14 <sup>`FOSS`</sup>
 * `MDY` [GuessIron](https://github.com/mobeil1/GuessIron) ⭐ 82 | 🐛 5 | 🌐 Kotlin | 📅 2024-07-13 <sup>`FOSS`</sup> <sup>`🪦`</sup>
 * `MDY` [Musekit](https://github.com/Kwasow/Musekit) ⭐ 75 | 🐛 14 | 🌐 Java | 📅 2026-08-01 <sup>`FOSS`</sup>
 * `MDY` [Menza](https://github.com/Lastaapps/menza) ⭐ 66 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-06 <sup>`FOSS`</sup>
@@ -2051,8 +2051,8 @@ This list is solely a compilation of apps that adopt the Material You design gui
 * **Reddit:** [#1](https://www.reddit.com/r/androidapps/comments/106iwa2/apps_that_i_use_with_material_you_support/), [#2](https://www.reddit.com/r/androidapps/comments/10bshxh/list_2_for_apps_with_material_you_support/), [#3](https://www.reddit.com/r/androidapps/comments/utjsl2/best_material_you_applications/), [#4](https://www.reddit.com/r/androidapps/comments/rnnhhm/material_you_apps/)
 * **Telegram:** [popMODS](https://t.me/popMODS), [WSTprojects](https://t.me/WSTprojects), [WPX Projects](https://t.me/waifupx_official), [DroidDen](https://t.me/DroidDen), [FossDroid](https://t.me/FossDroidAndroid), [Free Softwares \[Android\]](https://t.me/foss_Android)
 * **Similar Lists:** [sysworx's](https://github.com/sysworx/Material-You-app-list)<sup><sup>🪦</sup></sup>, [Naverim's](https://github.com/Naverim/Material-You-app-list)<sup><sup>🪦</sup></sup>, [TeaEndsAcronyms's](https://github.com/AAGaming00/Material-You-Apps) ⭐ 59 | 🐛 1 | 📅 2023-12-07<sup><sup>🪦</sup></sup>, [misaka-13766's](https://github.com/CHNJohnHK/Material-You-App-Repository) ⭐ 541 | 🐛 14 | 📅 2024-08-30<sup><sup>🪦</sup></sup>
-  * **Fluent Design Apps:** [HotarunIchijou's](https://github.com/HotarunIchijou/fluent-design-app-list) ⭐ 211 | 🐛 0 | 📅 2026-08-18, [DesignLipsx's](https://github.com/DesignLipsx/WinUI-3-Apps-List) ⭐ 764 | 🐛 1 | 🌐 Python | 📅 2026-08-11
+  * **Fluent Design Apps:** [HotarunIchijou's](https://github.com/HotarunIchijou/fluent-design-app-list) ⭐ 211 | 🐛 0 | 📅 2026-08-18, [DesignLipsx's](https://github.com/DesignLipsx/WinUI-3-Apps-List) ⭐ 763 | 🐛 1 | 🌐 Python | 📅 2026-08-11
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
